@@ -1,0 +1,6013 @@
+{
+  "items": [
+    {
+      "country": "JP",
+      "access": "all-access",
+      "year": "2021",
+      "month": "01",
+      "day": "02",
+      "articles": [
+        {
+          "article": "メインページ",
+          "project": "ja.wikipedia",
+          "views_ceil": 412500.0,
+          "rank": 1.0
+        },
+        {
+          "article": "創価大学",
+          "project": "ja.wikipedia",
+          "views_ceil": 112900.0,
+          "rank": 2.0
+        },
+        {
+          "article": "逃げるは恥だが役に立つ",
+          "project": "ja.wikipedia",
+          "views_ceil": 95100.0,
+          "rank": 3.0
+        },
+        {
+          "article": "東京箱根間往復大学駅伝競走",
+          "project": "ja.wikipedia",
+          "views_ceil": 90600.0,
+          "rank": 4.0
+        },
+        {
+          "article": "杉谷拳士",
+          "project": "ja.wikipedia",
+          "views_ceil": 85000.0,
+          "rank": 5.0
+        },
+        {
+          "article": "非常事態宣言",
+          "project": "ja.wikipedia",
+          "views_ceil": 80300.0,
+          "rank": 6.0
+        },
+        {
+          "article": "吉岡雄二",
+          "project": "ja.wikipedia",
+          "views_ceil": 77000.0,
+          "rank": 7.0
+        },
+        {
+          "article": "鬼滅の刃",
+          "project": "ja.wikipedia",
+          "views_ceil": 69900.0,
+          "rank": 8.0
+        },
+        {
+          "article": "伊藤若冲",
+          "project": "ja.wikipedia",
+          "views_ceil": 68800.0,
+          "rank": 9.0
+        },
+        {
+          "article": "柳田悠岐",
+          "project": "ja.wikipedia",
+          "views_ceil": 68600.0,
+          "rank": 10.0
+        },
+        {
+          "article": "特別:検索",
+          "project": "ja.wikipedia",
+          "views_ceil": 66300.0,
+          "rank": 11.0
+        },
+        {
+          "article": "新垣結衣",
+          "project": "ja.wikipedia",
+          "views_ceil": 62200.0,
+          "rank": 12.0
+        },
+        {
+          "article": "MAJOR_2nd",
+          "project": "ja.wikipedia",
+          "views_ceil": 51600.0,
+          "rank": 13.0
+        },
+        {
+          "article": "上白石萌音",
+          "project": "ja.wikipedia",
+          "views_ceil": 50000.0,
+          "rank": 14.0
+        },
+        {
+          "article": "ティモンディ",
+          "project": "ja.wikipedia",
+          "views_ceil": 49300.0,
+          "rank": 15.0
+        },
+        {
+          "article": "原口文仁",
+          "project": "ja.wikipedia",
+          "views_ceil": 47000.0,
+          "rank": 16.0
+        },
+        {
+          "article": "呪術廻戦",
+          "project": "ja.wikipedia",
+          "views_ceil": 44400.0,
+          "rank": 17.0
+        },
+        {
+          "article": "榎木和貴",
+          "project": "ja.wikipedia",
+          "views_ceil": 39900.0,
+          "rank": 18.0
+        },
+        {
+          "article": "松本まりか",
+          "project": "ja.wikipedia",
+          "views_ceil": 39800.0,
+          "rank": 19.0
+        },
+        {
+          "article": "花澤香菜",
+          "project": "ja.wikipedia",
+          "views_ceil": 39700.0,
+          "rank": 20.0
+        },
+        {
+          "article": "下野紘",
+          "project": "ja.wikipedia",
+          "views_ceil": 39600.0,
+          "rank": 21.0
+        },
+        {
+          "article": "星野源",
+          "project": "ja.wikipedia",
+          "views_ceil": 38800.0,
+          "rank": 22.0
+        },
+        {
+          "article": "村上宗隆",
+          "project": "ja.wikipedia",
+          "views_ceil": 38300.0,
+          "rank": 23.0
+        },
+        {
+          "article": "近藤芳正",
+          "project": "ja.wikipedia",
+          "views_ceil": 38200.0,
+          "rank": 24.0
+        },
+        {
+          "article": "箱根駅伝の記録一覧",
+          "project": "ja.wikipedia",
+          "views_ceil": 37700.0,
+          "rank": 25.0
+        },
+        {
+          "article": "ラ・ラ・ランド",
+          "project": "ja.wikipedia",
+          "views_ceil": 34600.0,
+          "rank": 26.0
+        },
+        {
+          "article": "宇垣美里",
+          "project": "ja.wikipedia",
+          "views_ceil": 34000.0,
+          "rank": 27.0
+        },
+        {
+          "article": "竹石尚人",
+          "project": "ja.wikipedia",
+          "views_ceil": 33900.0,
+          "rank": 28.0
+        },
+        {
+          "article": "藤原竜也",
+          "project": "ja.wikipedia",
+          "views_ceil": 33800.0,
+          "rank": 29.0
+        },
+        {
+          "article": "花江夏樹",
+          "project": "ja.wikipedia",
+          "views_ceil": 32900.0,
+          "rank": 30.0
+        },
+        {
+          "article": "GACKT",
+          "project": "ja.wikipedia",
+          "views_ceil": 32700.0,
+          "rank": 31.0
+        },
+        {
+          "article": "吉田正尚",
+          "project": "ja.wikipedia",
+          "views_ceil": 32300.0,
+          "rank": 32.0
+        },
+        {
+          "article": "萩尾望都",
+          "project": "ja.wikipedia",
+          "views_ceil": 30800.0,
+          "rank": 33.0
+        },
+        {
+          "article": "創価学会",
+          "project": "ja.wikipedia",
+          "views_ceil": 30400.0,
+          "rank": 34.0
+        },
+        {
+          "article": "上白石萌歌",
+          "project": "ja.wikipedia",
+          "views_ceil": 30200.0,
+          "rank": 35.0
+        },
+        {
+          "article": "柏原竜二",
+          "project": "ja.wikipedia",
+          "views_ceil": 28700.0,
+          "rank": 36.0
+        },
+        {
+          "article": "東京国際大学",
+          "project": "ja.wikipedia",
+          "views_ceil": 28500.0,
+          "rank": 37.0
+        },
+        {
+          "article": "桃田賢斗",
+          "project": "ja.wikipedia",
+          "views_ceil": 28400.0,
+          "rank": 38.0
+        },
+        {
+          "article": "石田ゆり子",
+          "project": "ja.wikipedia",
+          "views_ceil": 27900.0,
+          "rank": 39.0
+        },
+        {
+          "article": "広瀬アリス",
+          "project": "ja.wikipedia",
+          "views_ceil": 27800.0,
+          "rank": 40.0
+        },
+        {
+          "article": "池田大作",
+          "project": "ja.wikipedia",
+          "views_ceil": 26800.0,
+          "rank": 41.0
+        },
+        {
+          "article": "NiziU",
+          "project": "ja.wikipedia",
+          "views_ceil": 26600.0,
+          "rank": 42.0
+        },
+        {
+          "article": "北川景子",
+          "project": "ja.wikipedia",
+          "views_ceil": 25700.0,
+          "rank": 43.0
+        },
+        {
+          "article": "LiSA",
+          "project": "ja.wikipedia",
+          "views_ceil": 24900.0,
+          "rank": 44.0
+        },
+        {
+          "article": "石橋貴明",
+          "project": "ja.wikipedia",
+          "views_ceil": 24100.0,
+          "rank": 45.0
+        },
+        {
+          "article": "関東学生連合チーム",
+          "project": "ja.wikipedia",
+          "views_ceil": 23600.0,
+          "rank": 46.0
+        },
+        {
+          "article": "前田健太",
+          "project": "ja.wikipedia",
+          "views_ceil": 23500.0,
+          "rank": 47.0
+        },
+        {
+          "article": "もしも願いが叶うなら",
+          "project": "ja.wikipedia",
+          "views_ceil": 23400.0,
+          "rank": 48.0
+        },
+        {
+          "article": "中田翔",
+          "project": "ja.wikipedia",
+          "views_ceil": 23300.0,
+          "rank": 49.0
+        },
+        {
+          "article": "アイクぬわら",
+          "project": "ja.wikipedia",
+          "views_ceil": 23000.0,
+          "rank": 50.0
+        },
+        {
+          "article": "MIU404",
+          "project": "ja.wikipedia",
+          "views_ceil": 22500.0,
+          "rank": 51.0
+        },
+        {
+          "article": "真野恵里菜",
+          "project": "ja.wikipedia",
+          "views_ceil": 22300.0,
+          "rank": 52.0
+        },
+        {
+          "article": "大典顕常",
+          "project": "ja.wikipedia",
+          "views_ceil": 21400.0,
+          "rank": 53.0
+        },
+        {
+          "article": "BABYMETAL",
+          "project": "ja.wikipedia",
+          "views_ceil": 21400.0,
+          "rank": 54.0
+        },
+        {
+          "article": "ソン・イェジン",
+          "project": "ja.wikipedia",
+          "views_ceil": 20700.0,
+          "rank": 55.0
+        },
+        {
+          "article": "ゴルゴ松本",
+          "project": "ja.wikipedia",
+          "views_ceil": 20500.0,
+          "rank": 56.0
+        },
+        {
+          "article": "アンナチュラル",
+          "project": "ja.wikipedia",
+          "views_ceil": 20300.0,
+          "rank": 57.0
+        },
+        {
+          "article": "かたせ梨乃",
+          "project": "ja.wikipedia",
+          "views_ceil": 20200.0,
+          "rank": 58.0
+        },
+        {
+          "article": "張本智和",
+          "project": "ja.wikipedia",
+          "views_ceil": 19700.0,
+          "rank": 59.0
+        },
+        {
+          "article": "YOASOBI",
+          "project": "ja.wikipedia",
+          "views_ceil": 19700.0,
+          "rank": 60.0
+        },
+        {
+          "article": "初夢",
+          "project": "ja.wikipedia",
+          "views_ceil": 19500.0,
+          "rank": 61.0
+        },
+        {
+          "article": "円山応挙",
+          "project": "ja.wikipedia",
+          "views_ceil": 19200.0,
+          "rank": 62.0
+        },
+        {
+          "article": "機動戦士ガンダムNT",
+          "project": "ja.wikipedia",
+          "views_ceil": 18900.0,
+          "rank": 63.0
+        },
+        {
+          "article": "芸能人格付けチェック",
+          "project": "ja.wikipedia",
+          "views_ceil": 18600.0,
+          "rank": 64.0
+        },
+        {
+          "article": "弘中綾香",
+          "project": "ja.wikipedia",
+          "views_ceil": 18400.0,
+          "rank": 65.0
+        },
+        {
+          "article": "野木亜紀子",
+          "project": "ja.wikipedia",
+          "views_ceil": 18400.0,
+          "rank": 66.0
+        },
+        {
+          "article": "たけしくん、ハイ!",
+          "project": "ja.wikipedia",
+          "views_ceil": 18300.0,
+          "rank": 67.0
+        },
+        {
+          "article": "岸辺露伴は動かない",
+          "project": "ja.wikipedia",
+          "views_ceil": 17800.0,
+          "rank": 68.0
+        },
+        {
+          "article": "中山美穂",
+          "project": "ja.wikipedia",
+          "views_ceil": 17600.0,
+          "rank": 69.0
+        },
+        {
+          "article": "二階堂ふみ",
+          "project": "ja.wikipedia",
+          "views_ceil": 17500.0,
+          "rank": 70.0
+        },
+        {
+          "article": "関ジャニ∞",
+          "project": "ja.wikipedia",
+          "views_ceil": 17200.0,
+          "rank": 71.0
+        },
+        {
+          "article": "BTS_(音楽グループ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 16900.0,
+          "rank": 72.0
+        },
+        {
+          "article": "Main_Page",
+          "project": "en.wikipedia",
+          "views_ceil": 16800.0,
+          "rank": 73.0
+        },
+        {
+          "article": "今際の国のアリス",
+          "project": "ja.wikipedia",
+          "views_ceil": 16700.0,
+          "rank": 74.0
+        },
+        {
+          "article": "シュウペイ",
+          "project": "ja.wikipedia",
+          "views_ceil": 16700.0,
+          "rank": 75.0
+        },
+        {
+          "article": "嵐_(グループ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 16500.0,
+          "rank": 76.0
+        },
+        {
+          "article": "Milet",
+          "project": "ja.wikipedia",
+          "views_ceil": 16300.0,
+          "rank": 77.0
+        },
+        {
+          "article": "平本蓮",
+          "project": "ja.wikipedia",
+          "views_ceil": 15800.0,
+          "rank": 78.0
+        },
+        {
+          "article": "石川佳純",
+          "project": "ja.wikipedia",
+          "views_ceil": 15700.0,
+          "rank": 79.0
+        },
+        {
+          "article": "三又又三",
+          "project": "ja.wikipedia",
+          "views_ceil": 15400.0,
+          "rank": 80.0
+        },
+        {
+          "article": "GReeeeN",
+          "project": "ja.wikipedia",
+          "views_ceil": 15300.0,
+          "rank": 81.0
+        },
+        {
+          "article": "広瀬すず",
+          "project": "ja.wikipedia",
+          "views_ceil": 15200.0,
+          "rank": 82.0
+        },
+        {
+          "article": "内田也哉子",
+          "project": "ja.wikipedia",
+          "views_ceil": 15200.0,
+          "rank": 83.0
+        },
+        {
+          "article": "池大雅",
+          "project": "ja.wikipedia",
+          "views_ceil": 15100.0,
+          "rank": 84.0
+        },
+        {
+          "article": "国枝慎吾",
+          "project": "ja.wikipedia",
+          "views_ceil": 15100.0,
+          "rank": 85.0
+        },
+        {
+          "article": "明石家さんま",
+          "project": "ja.wikipedia",
+          "views_ceil": 15000.0,
+          "rank": 86.0
+        },
+        {
+          "article": "タイガー\u0026ドラゴン_(テレビドラマ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 15000.0,
+          "rank": 87.0
+        },
+        {
+          "article": "島太星",
+          "project": "ja.wikipedia",
+          "views_ceil": 14900.0,
+          "rank": 88.0
+        },
+        {
+          "article": "売茶翁",
+          "project": "ja.wikipedia",
+          "views_ceil": 14900.0,
+          "rank": 89.0
+        },
+        {
+          "article": "黒木瞳",
+          "project": "ja.wikipedia",
+          "views_ceil": 14800.0,
+          "rank": 90.0
+        },
+        {
+          "article": "MISIA",
+          "project": "ja.wikipedia",
+          "views_ceil": 14700.0,
+          "rank": 91.0
+        },
+        {
+          "article": "黒革の手帖",
+          "project": "ja.wikipedia",
+          "views_ceil": 14500.0,
+          "rank": 92.0
+        },
+        {
+          "article": "堀口恭司",
+          "project": "ja.wikipedia",
+          "views_ceil": 14400.0,
+          "rank": 93.0
+        },
+        {
+          "article": "エマ・ストーン",
+          "project": "ja.wikipedia",
+          "views_ceil": 14300.0,
+          "rank": 94.0
+        },
+        {
+          "article": "ROLAND_(ホスト)",
+          "project": "ja.wikipedia",
+          "views_ceil": 14200.0,
+          "rank": 95.0
+        },
+        {
+          "article": "和田正人",
+          "project": "ja.wikipedia",
+          "views_ceil": 14100.0,
+          "rank": 96.0
+        },
+        {
+          "article": "吾峠呼世晴",
+          "project": "ja.wikipedia",
+          "views_ceil": 13800.0,
+          "rank": 97.0
+        },
+        {
+          "article": "鈴木誠也",
+          "project": "ja.wikipedia",
+          "views_ceil": 13800.0,
+          "rank": 98.0
+        },
+        {
+          "article": "ヒョンビン",
+          "project": "ja.wikipedia",
+          "views_ceil": 13800.0,
+          "rank": 99.0
+        },
+        {
+          "article": "夢対決!とんねるずのスポーツ王は俺だ!スペシャル",
+          "project": "ja.wikipedia",
+          "views_ceil": 13700.0,
+          "rank": 100.0
+        },
+        {
+          "article": "北村匠海",
+          "project": "ja.wikipedia",
+          "views_ceil": 13600.0,
+          "rank": 101.0
+        },
+        {
+          "article": "田中カ子",
+          "project": "ja.wikipedia",
+          "views_ceil": 13600.0,
+          "rank": 102.0
+        },
+        {
+          "article": "平野レミ",
+          "project": "ja.wikipedia",
+          "views_ceil": 13500.0,
+          "rank": 103.0
+        },
+        {
+          "article": "中村倫也",
+          "project": "ja.wikipedia",
+          "views_ceil": 13400.0,
+          "rank": 104.0
+        },
+        {
+          "article": "ファーストサマーウイカ",
+          "project": "ja.wikipedia",
+          "views_ceil": 13400.0,
+          "rank": 105.0
+        },
+        {
+          "article": "愛の不時着",
+          "project": "ja.wikipedia",
+          "views_ceil": 13200.0,
+          "rank": 106.0
+        },
+        {
+          "article": "朝倉未来",
+          "project": "ja.wikipedia",
+          "views_ceil": 13200.0,
+          "rank": 107.0
+        },
+        {
+          "article": "Run_for_money_逃走中",
+          "project": "ja.wikipedia",
+          "views_ceil": 12900.0,
+          "rank": 108.0
+        },
+        {
+          "article": "シバター",
+          "project": "ja.wikipedia",
+          "views_ceil": 12800.0,
+          "rank": 109.0
+        },
+        {
+          "article": "約束のネバーランド",
+          "project": "ja.wikipedia",
+          "views_ceil": 12800.0,
+          "rank": 110.0
+        },
+        {
+          "article": "大谷亮平",
+          "project": "ja.wikipedia",
+          "views_ceil": 12600.0,
+          "rank": 111.0
+        },
+        {
+          "article": "吉岡里帆",
+          "project": "ja.wikipedia",
+          "views_ceil": 12600.0,
+          "rank": 112.0
+        },
+        {
+          "article": "倖田來未",
+          "project": "ja.wikipedia",
+          "views_ceil": 12600.0,
+          "rank": 113.0
+        },
+        {
+          "article": "北の打ち師達",
+          "project": "ja.wikipedia",
+          "views_ceil": 12600.0,
+          "rank": 114.0
+        },
+        {
+          "article": "フワちゃん",
+          "project": "ja.wikipedia",
+          "views_ceil": 12500.0,
+          "rank": 115.0
+        },
+        {
+          "article": "永山瑛太",
+          "project": "ja.wikipedia",
+          "views_ceil": 12300.0,
+          "rank": 116.0
+        },
+        {
+          "article": "相棒",
+          "project": "ja.wikipedia",
+          "views_ceil": 12200.0,
+          "rank": 117.0
+        },
+        {
+          "article": "松下奈緒",
+          "project": "ja.wikipedia",
+          "views_ceil": 12100.0,
+          "rank": 118.0
+        },
+        {
+          "article": "教場",
+          "project": "ja.wikipedia",
+          "views_ceil": 11900.0,
+          "rank": 119.0
+        },
+        {
+          "article": "久代萌美",
+          "project": "ja.wikipedia",
+          "views_ceil": 11900.0,
+          "rank": 120.0
+        },
+        {
+          "article": "ポーの一族",
+          "project": "ja.wikipedia",
+          "views_ceil": 11900.0,
+          "rank": 121.0
+        },
+        {
+          "article": "幾田りら",
+          "project": "ja.wikipedia",
+          "views_ceil": 11900.0,
+          "rank": 122.0
+        },
+        {
+          "article": "兼近大樹",
+          "project": "ja.wikipedia",
+          "views_ceil": 11800.0,
+          "rank": 123.0
+        },
+        {
+          "article": "月姫_(ゲーム)",
+          "project": "ja.wikipedia",
+          "views_ceil": 11800.0,
+          "rank": 124.0
+        },
+        {
+          "article": "川奈ホテル",
+          "project": "ja.wikipedia",
+          "views_ceil": 11800.0,
+          "rank": 125.0
+        },
+        {
+          "article": "原英莉花",
+          "project": "ja.wikipedia",
+          "views_ceil": 11700.0,
+          "rank": 126.0
+        },
+        {
+          "article": "浜田雅功",
+          "project": "ja.wikipedia",
+          "views_ceil": 11700.0,
+          "rank": 127.0
+        },
+        {
+          "article": "Snow_Man",
+          "project": "ja.wikipedia",
+          "views_ceil": 11700.0,
+          "rank": 128.0
+        },
+        {
+          "article": "浜崎貴司",
+          "project": "ja.wikipedia",
+          "views_ceil": 11700.0,
+          "rank": 129.0
+        },
+        {
+          "article": "SixTONES",
+          "project": "ja.wikipedia",
+          "views_ceil": 11600.0,
+          "rank": 130.0
+        },
+        {
+          "article": "とんねるず",
+          "project": "ja.wikipedia",
+          "views_ceil": 11500.0,
+          "rank": 131.0
+        },
+        {
+          "article": "小磯勝弥",
+          "project": "ja.wikipedia",
+          "views_ceil": 11500.0,
+          "rank": 132.0
+        },
+        {
+          "article": "小野賢章",
+          "project": "ja.wikipedia",
+          "views_ceil": 11300.0,
+          "rank": 133.0
+        },
+        {
+          "article": "ビートたけし",
+          "project": "ja.wikipedia",
+          "views_ceil": 11300.0,
+          "rank": 134.0
+        },
+        {
+          "article": "魔法科高校の劣等生",
+          "project": "ja.wikipedia",
+          "views_ceil": 11100.0,
+          "rank": 135.0
+        },
+        {
+          "article": "創価大学の人物一覧",
+          "project": "ja.wikipedia",
+          "views_ceil": 11100.0,
+          "rank": 136.0
+        },
+        {
+          "article": "花崎阿弓",
+          "project": "ja.wikipedia",
+          "views_ceil": 11100.0,
+          "rank": 137.0
+        },
+        {
+          "article": "白桃ピーチよぴぴ",
+          "project": "ja.wikipedia",
+          "views_ceil": 11000.0,
+          "rank": 138.0
+        },
+        {
+          "article": "Wikipedia:首页",
+          "project": "zh.wikipedia",
+          "views_ceil": 10900.0,
+          "rank": 139.0
+        },
+        {
+          "article": "ライアン・ゴズリング",
+          "project": "ja.wikipedia",
+          "views_ceil": 10900.0,
+          "rank": 140.0
+        },
+        {
+          "article": "那須川天心",
+          "project": "ja.wikipedia",
+          "views_ceil": 10800.0,
+          "rank": 141.0
+        },
+        {
+          "article": "梅宮辰夫",
+          "project": "ja.wikipedia",
+          "views_ceil": 10800.0,
+          "rank": 142.0
+        },
+        {
+          "article": "KENZO_(ダンサー)",
+          "project": "ja.wikipedia",
+          "views_ceil": 10700.0,
+          "rank": 143.0
+        },
+        {
+          "article": "ナイツ_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 10700.0,
+          "rank": 144.0
+        },
+        {
+          "article": "進撃の巨人",
+          "project": "ja.wikipedia",
+          "views_ceil": 10600.0,
+          "rank": 145.0
+        },
+        {
+          "article": "笑ってはいけないシリーズ",
+          "project": "ja.wikipedia",
+          "views_ceil": 10600.0,
+          "rank": 146.0
+        },
+        {
+          "article": "いとうあさこ",
+          "project": "ja.wikipedia",
+          "views_ceil": 10600.0,
+          "rank": 147.0
+        },
+        {
+          "article": "高橋一生",
+          "project": "ja.wikipedia",
+          "views_ceil": 10500.0,
+          "rank": 148.0
+        },
+        {
+          "article": "小嶋陽菜",
+          "project": "ja.wikipedia",
+          "views_ceil": 10500.0,
+          "rank": 149.0
+        },
+        {
+          "article": "黒沢年雄",
+          "project": "ja.wikipedia",
+          "views_ceil": 10500.0,
+          "rank": 150.0
+        },
+        {
+          "article": "アーヤと魔女",
+          "project": "ja.wikipedia",
+          "views_ceil": 10400.0,
+          "rank": 151.0
+        },
+        {
+          "article": "西田尚美",
+          "project": "ja.wikipedia",
+          "views_ceil": 10400.0,
+          "rank": 152.0
+        },
+        {
+          "article": "佐藤栞里",
+          "project": "ja.wikipedia",
+          "views_ceil": 10400.0,
+          "rank": 153.0
+        },
+        {
+          "article": "ごくせん_(テレビドラマ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 10300.0,
+          "rank": 154.0
+        },
+        {
+          "article": "綾瀬はるか",
+          "project": "ja.wikipedia",
+          "views_ceil": 10300.0,
+          "rank": 155.0
+        },
+        {
+          "article": "戸田恵梨香",
+          "project": "ja.wikipedia",
+          "views_ceil": 10100.0,
+          "rank": 156.0
+        },
+        {
+          "article": "MAJORの登場人物",
+          "project": "ja.wikipedia",
+          "views_ceil": 9900.0,
+          "rank": 157.0
+        },
+        {
+          "article": "潮田玲子",
+          "project": "ja.wikipedia",
+          "views_ceil": 9900.0,
+          "rank": 158.0
+        },
+        {
+          "article": "鈴木達央",
+          "project": "ja.wikipedia",
+          "views_ceil": 9900.0,
+          "rank": 159.0
+        },
+        {
+          "article": "中条あやみ",
+          "project": "ja.wikipedia",
+          "views_ceil": 9800.0,
+          "rank": 160.0
+        },
+        {
+          "article": "村西とおる",
+          "project": "ja.wikipedia",
+          "views_ceil": 9800.0,
+          "rank": 161.0
+        },
+        {
+          "article": "KinKi_Kids",
+          "project": "ja.wikipedia",
+          "views_ceil": 9800.0,
+          "rank": 162.0
+        },
+        {
+          "article": "パラサイト_半地下の家族",
+          "project": "ja.wikipedia",
+          "views_ceil": 9700.0,
+          "rank": 163.0
+        },
+        {
+          "article": "伊達公子",
+          "project": "ja.wikipedia",
+          "views_ceil": 9700.0,
+          "rank": 164.0
+        },
+        {
+          "article": "武井咲",
+          "project": "ja.wikipedia",
+          "views_ceil": 9600.0,
+          "rank": 165.0
+        },
+        {
+          "article": "岡田浩暉",
+          "project": "ja.wikipedia",
+          "views_ceil": 9500.0,
+          "rank": 166.0
+        },
+        {
+          "article": "木梨憲武",
+          "project": "ja.wikipedia",
+          "views_ceil": 9500.0,
+          "rank": 167.0
+        },
+        {
+          "article": "原晋",
+          "project": "ja.wikipedia",
+          "views_ceil": 9400.0,
+          "rank": 168.0
+        },
+        {
+          "article": "目黒蓮",
+          "project": "ja.wikipedia",
+          "views_ceil": 9400.0,
+          "rank": 169.0
+        },
+        {
+          "article": "瑛人",
+          "project": "ja.wikipedia",
+          "views_ceil": 9400.0,
+          "rank": 170.0
+        },
+        {
+          "article": "浜辺美波",
+          "project": "ja.wikipedia",
+          "views_ceil": 9300.0,
+          "rank": 171.0
+        },
+        {
+          "article": "萩原京平",
+          "project": "ja.wikipedia",
+          "views_ceil": 9200.0,
+          "rank": 172.0
+        },
+        {
+          "article": "井岡一翔",
+          "project": "ja.wikipedia",
+          "views_ceil": 9200.0,
+          "rank": 173.0
+        },
+        {
+          "article": "山田くんと7人の魔女",
+          "project": "ja.wikipedia",
+          "views_ceil": 9100.0,
+          "rank": 174.0
+        },
+        {
+          "article": "姫始め",
+          "project": "ja.wikipedia",
+          "views_ceil": 9100.0,
+          "rank": 175.0
+        },
+        {
+          "article": "ワールドトリガー",
+          "project": "ja.wikipedia",
+          "views_ceil": 9100.0,
+          "rank": 176.0
+        },
+        {
+          "article": "新世紀エヴァンゲリオン",
+          "project": "ja.wikipedia",
+          "views_ceil": 9100.0,
+          "rank": 177.0
+        },
+        {
+          "article": "菅野美穂",
+          "project": "ja.wikipedia",
+          "views_ceil": 9000.0,
+          "rank": 178.0
+        },
+        {
+          "article": "柴崎岳",
+          "project": "ja.wikipedia",
+          "views_ceil": 9000.0,
+          "rank": 179.0
+        },
+        {
+          "article": "和田明日香",
+          "project": "ja.wikipedia",
+          "views_ceil": 9000.0,
+          "rank": 180.0
+        },
+        {
+          "article": "中村七之助_(2代目)",
+          "project": "ja.wikipedia",
+          "views_ceil": 8900.0,
+          "rank": 181.0
+        },
+        {
+          "article": "蝶野正洋",
+          "project": "ja.wikipedia",
+          "views_ceil": 8900.0,
+          "rank": 182.0
+        },
+        {
+          "article": "夢で逢えたら_(テレビ番組)",
+          "project": "ja.wikipedia",
+          "views_ceil": 8800.0,
+          "rank": 183.0
+        },
+        {
+          "article": "EXIT_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 8800.0,
+          "rank": 184.0
+        },
+        {
+          "article": "笹生優花",
+          "project": "ja.wikipedia",
+          "views_ceil": 8700.0,
+          "rank": 185.0
+        },
+        {
+          "article": "HIROYA",
+          "project": "ja.wikipedia",
+          "views_ceil": 8700.0,
+          "rank": 186.0
+        },
+        {
+          "article": "朝倉海",
+          "project": "ja.wikipedia",
+          "views_ceil": 8600.0,
+          "rank": 187.0
+        },
+        {
+          "article": "石田ひかり",
+          "project": "ja.wikipedia",
+          "views_ceil": 8600.0,
+          "rank": 188.0
+        },
+        {
+          "article": "林隆三",
+          "project": "ja.wikipedia",
+          "views_ceil": 8600.0,
+          "rank": 189.0
+        },
+        {
+          "article": "早見沙織",
+          "project": "ja.wikipedia",
+          "views_ceil": 8500.0,
+          "rank": 190.0
+        },
+        {
+          "article": "第96回東京箱根間往復大学駅伝競走",
+          "project": "ja.wikipedia",
+          "views_ceil": 8500.0,
+          "rank": 191.0
+        },
+        {
+          "article": "高畑充希",
+          "project": "ja.wikipedia",
+          "views_ceil": 8500.0,
+          "rank": 192.0
+        },
+        {
+          "article": "厄年",
+          "project": "ja.wikipedia",
+          "views_ceil": 8500.0,
+          "rank": 193.0
+        },
+        {
+          "article": "Dr.コトー診療所_(テレビドラマ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 8500.0,
+          "rank": 194.0
+        },
+        {
+          "article": "風の谷のナウシカ",
+          "project": "ja.wikipedia",
+          "views_ceil": 8500.0,
+          "rank": 195.0
+        },
+        {
+          "article": "ライジング若冲_天才_かく覚醒せり",
+          "project": "ja.wikipedia",
+          "views_ceil": 8400.0,
+          "rank": 196.0
+        },
+        {
+          "article": "上野樹里",
+          "project": "ja.wikipedia",
+          "views_ceil": 8300.0,
+          "rank": 197.0
+        },
+        {
+          "article": "富田靖子",
+          "project": "ja.wikipedia",
+          "views_ceil": 8300.0,
+          "rank": 198.0
+        },
+        {
+          "article": "相棒の登場人物",
+          "project": "ja.wikipedia",
+          "views_ceil": 8300.0,
+          "rank": 199.0
+        },
+        {
+          "article": "山賀琴子",
+          "project": "ja.wikipedia",
+          "views_ceil": 8300.0,
+          "rank": 200.0
+        },
+        {
+          "article": "全国大学ラグビーフットボール選手権大会",
+          "project": "ja.wikipedia",
+          "views_ceil": 8200.0,
+          "rank": 201.0
+        },
+        {
+          "article": "マヂカルラブリー",
+          "project": "ja.wikipedia",
+          "views_ceil": 8200.0,
+          "rank": 202.0
+        },
+        {
+          "article": "グループ魂",
+          "project": "ja.wikipedia",
+          "views_ceil": 8200.0,
+          "rank": 203.0
+        },
+        {
+          "article": "孤独のグルメ",
+          "project": "ja.wikipedia",
+          "views_ceil": 8200.0,
+          "rank": 204.0
+        },
+        {
+          "article": "池田美優",
+          "project": "ja.wikipedia",
+          "views_ceil": 8200.0,
+          "rank": 205.0
+        },
+        {
+          "article": "相澤晃",
+          "project": "ja.wikipedia",
+          "views_ceil": 8200.0,
+          "rank": 206.0
+        },
+        {
+          "article": "神野大地",
+          "project": "ja.wikipedia",
+          "views_ceil": 8100.0,
+          "rank": 207.0
+        },
+        {
+          "article": "田中瞳_(アナウンサー)",
+          "project": "ja.wikipedia",
+          "views_ceil": 8000.0,
+          "rank": 208.0
+        },
+        {
+          "article": "デイズ・オブ・サンダー",
+          "project": "ja.wikipedia",
+          "views_ceil": 8000.0,
+          "rank": 209.0
+        },
+        {
+          "article": "武尊",
+          "project": "ja.wikipedia",
+          "views_ceil": 7900.0,
+          "rank": 210.0
+        },
+        {
+          "article": "伊東四朗",
+          "project": "ja.wikipedia",
+          "views_ceil": 7900.0,
+          "rank": 211.0
+        },
+        {
+          "article": "岸辺露伴",
+          "project": "ja.wikipedia",
+          "views_ceil": 7900.0,
+          "rank": 212.0
+        },
+        {
+          "article": "霜降り明星",
+          "project": "ja.wikipedia",
+          "views_ceil": 7900.0,
+          "rank": 213.0
+        },
+        {
+          "article": "今井ゆうぞう",
+          "project": "ja.wikipedia",
+          "views_ceil": 7900.0,
+          "rank": 214.0
+        },
+        {
+          "article": "小池里奈",
+          "project": "ja.wikipedia",
+          "views_ceil": 7800.0,
+          "rank": 215.0
+        },
+        {
+          "article": "ニューヨーク_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 7800.0,
+          "rank": 216.0
+        },
+        {
+          "article": "木村文乃",
+          "project": "ja.wikipedia",
+          "views_ceil": 7800.0,
+          "rank": 217.0
+        },
+        {
+          "article": "玉置浩二",
+          "project": "ja.wikipedia",
+          "views_ceil": 7800.0,
+          "rank": 218.0
+        },
+        {
+          "article": "志村\u0026鶴瓶のあぶない交遊録",
+          "project": "ja.wikipedia",
+          "views_ceil": 7800.0,
+          "rank": 219.0
+        },
+        {
+          "article": "進撃の巨人_(アニメ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 7800.0,
+          "rank": 220.0
+        },
+        {
+          "article": "チョコレートプラネット",
+          "project": "ja.wikipedia",
+          "views_ceil": 7800.0,
+          "rank": 221.0
+        },
+        {
+          "article": "長嶋一茂",
+          "project": "ja.wikipedia",
+          "views_ceil": 7700.0,
+          "rank": 222.0
+        },
+        {
+          "article": "本並健治",
+          "project": "ja.wikipedia",
+          "views_ceil": 7700.0,
+          "rank": 223.0
+        },
+        {
+          "article": "朝日奈央",
+          "project": "ja.wikipedia",
+          "views_ceil": 7600.0,
+          "rank": 224.0
+        },
+        {
+          "article": "桐谷広人",
+          "project": "ja.wikipedia",
+          "views_ceil": 7600.0,
+          "rank": 225.0
+        },
+        {
+          "article": "竹内涼真",
+          "project": "ja.wikipedia",
+          "views_ceil": 7600.0,
+          "rank": 226.0
+        },
+        {
+          "article": "上地結衣",
+          "project": "ja.wikipedia",
+          "views_ceil": 7500.0,
+          "rank": 227.0
+        },
+        {
+          "article": "3時のヒロイン",
+          "project": "ja.wikipedia",
+          "views_ceil": 7500.0,
+          "rank": 228.0
+        },
+        {
+          "article": "竹中平蔵",
+          "project": "ja.wikipedia",
+          "views_ceil": 7400.0,
+          "rank": 229.0
+        },
+        {
+          "article": "Perfume",
+          "project": "ja.wikipedia",
+          "views_ceil": 7400.0,
+          "rank": 230.0
+        },
+        {
+          "article": "りんたろー。",
+          "project": "ja.wikipedia",
+          "views_ceil": 7400.0,
+          "rank": 231.0
+        },
+        {
+          "article": "神林勇太",
+          "project": "ja.wikipedia",
+          "views_ceil": 7400.0,
+          "rank": 232.0
+        },
+        {
+          "article": "出川哲朗",
+          "project": "ja.wikipedia",
+          "views_ceil": 7400.0,
+          "rank": 233.0
+        },
+        {
+          "article": "聖☆おにいさん",
+          "project": "ja.wikipedia",
+          "views_ceil": 7300.0,
+          "rank": 234.0
+        },
+        {
+          "article": "弥益ドミネーター聡志",
+          "project": "ja.wikipedia",
+          "views_ceil": 7300.0,
+          "rank": 235.0
+        },
+        {
+          "article": "学校法人神村学園",
+          "project": "ja.wikipedia",
+          "views_ceil": 7300.0,
+          "rank": 236.0
+        },
+        {
+          "article": "松重豊",
+          "project": "ja.wikipedia",
+          "views_ceil": 7300.0,
+          "rank": 237.0
+        },
+        {
+          "article": "ファラリスの雄牛",
+          "project": "ja.wikipedia",
+          "views_ceil": 7200.0,
+          "rank": 238.0
+        },
+        {
+          "article": "志村けん",
+          "project": "ja.wikipedia",
+          "views_ceil": 7200.0,
+          "rank": 239.0
+        },
+        {
+          "article": "フォレスト・ガンプ/一期一会",
+          "project": "ja.wikipedia",
+          "views_ceil": 7200.0,
+          "rank": 240.0
+        },
+        {
+          "article": "犬釘",
+          "project": "ja.wikipedia",
+          "views_ceil": 7200.0,
+          "rank": 241.0
+        },
+        {
+          "article": "有吉弘行",
+          "project": "ja.wikipedia",
+          "views_ceil": 7200.0,
+          "rank": 242.0
+        },
+        {
+          "article": "男はつらいよ_寅次郎物語",
+          "project": "ja.wikipedia",
+          "views_ceil": 7200.0,
+          "rank": 243.0
+        },
+        {
+          "article": "無能なナナ",
+          "project": "ja.wikipedia",
+          "views_ceil": 7200.0,
+          "rank": 244.0
+        },
+        {
+          "article": "見取り図_(お笑い)",
+          "project": "ja.wikipedia",
+          "views_ceil": 7100.0,
+          "rank": 245.0
+        },
+        {
+          "article": "ハイキュー!!",
+          "project": "ja.wikipedia",
+          "views_ceil": 7100.0,
+          "rank": 246.0
+        },
+        {
+          "article": "Official髭男dism",
+          "project": "ja.wikipedia",
+          "views_ceil": 7100.0,
+          "rank": 247.0
+        },
+        {
+          "article": "鬼頭明里",
+          "project": "ja.wikipedia",
+          "views_ceil": 7100.0,
+          "rank": 248.0
+        },
+        {
+          "article": "NHK紅白歌合戦",
+          "project": "ja.wikipedia",
+          "views_ceil": 7100.0,
+          "rank": 249.0
+        },
+        {
+          "article": "TWICE_(韓国の音楽グループ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 7100.0,
+          "rank": 250.0
+        },
+        {
+          "article": "乃木坂46",
+          "project": "ja.wikipedia",
+          "views_ceil": 7100.0,
+          "rank": 251.0
+        },
+        {
+          "article": "柄本佑",
+          "project": "ja.wikipedia",
+          "views_ceil": 7100.0,
+          "rank": 252.0
+        },
+        {
+          "article": "帝京中学校・高等学校",
+          "project": "ja.wikipedia",
+          "views_ceil": 7100.0,
+          "rank": 253.0
+        },
+        {
+          "article": "比嘉愛未",
+          "project": "ja.wikipedia",
+          "views_ceil": 7000.0,
+          "rank": 254.0
+        },
+        {
+          "article": "DOCTORS〜最強の名医〜",
+          "project": "ja.wikipedia",
+          "views_ceil": 7000.0,
+          "rank": 255.0
+        },
+        {
+          "article": "日本",
+          "project": "ja.wikipedia",
+          "views_ceil": 7000.0,
+          "rank": 256.0
+        },
+        {
+          "article": "池田エライザ",
+          "project": "ja.wikipedia",
+          "views_ceil": 7000.0,
+          "rank": 257.0
+        },
+        {
+          "article": "相国寺",
+          "project": "ja.wikipedia",
+          "views_ceil": 7000.0,
+          "rank": 258.0
+        },
+        {
+          "article": "今井正人",
+          "project": "ja.wikipedia",
+          "views_ceil": 6900.0,
+          "rank": 259.0
+        },
+        {
+          "article": "天気の子",
+          "project": "ja.wikipedia",
+          "views_ceil": 6900.0,
+          "rank": 259.0
+        },
+        {
+          "article": "三浦春馬",
+          "project": "ja.wikipedia",
+          "views_ceil": 6900.0,
+          "rank": 261.0
+        },
+        {
+          "article": "森七菜",
+          "project": "ja.wikipedia",
+          "views_ceil": 6900.0,
+          "rank": 262.0
+        },
+        {
+          "article": "進撃の巨人の登場人物",
+          "project": "ja.wikipedia",
+          "views_ceil": 6900.0,
+          "rank": 263.0
+        },
+        {
+          "article": "石原さとみ",
+          "project": "ja.wikipedia",
+          "views_ceil": 6900.0,
+          "rank": 264.0
+        },
+        {
+          "article": "天理教",
+          "project": "ja.wikipedia",
+          "views_ceil": 6900.0,
+          "rank": 265.0
+        },
+        {
+          "article": "ダウンタウン_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 6900.0,
+          "rank": 266.0
+        },
+        {
+          "article": "篠原ゆき子",
+          "project": "ja.wikipedia",
+          "views_ceil": 6800.0,
+          "rank": 267.0
+        },
+        {
+          "article": "マイノリティ・リポート",
+          "project": "ja.wikipedia",
+          "views_ceil": 6800.0,
+          "rank": 268.0
+        },
+        {
+          "article": "北野大",
+          "project": "ja.wikipedia",
+          "views_ceil": 6800.0,
+          "rank": 269.0
+        },
+        {
+          "article": "所ジョージ",
+          "project": "ja.wikipedia",
+          "views_ceil": 6800.0,
+          "rank": 270.0
+        },
+        {
+          "article": "Ayase",
+          "project": "ja.wikipedia",
+          "views_ceil": 6700.0,
+          "rank": 271.0
+        },
+        {
+          "article": "ジョジョの奇妙な冒険",
+          "project": "ja.wikipedia",
+          "views_ceil": 6700.0,
+          "rank": 272.0
+        },
+        {
+          "article": "杉野遥亮",
+          "project": "ja.wikipedia",
+          "views_ceil": 6700.0,
+          "rank": 273.0
+        },
+        {
+          "article": "野田クリスタル",
+          "project": "ja.wikipedia",
+          "views_ceil": 6700.0,
+          "rank": 274.0
+        },
+        {
+          "article": "ヴァイオレット・エヴァーガーデン",
+          "project": "ja.wikipedia",
+          "views_ceil": 6700.0,
+          "rank": 275.0
+        },
+        {
+          "article": "大泉洋",
+          "project": "ja.wikipedia",
+          "views_ceil": 6700.0,
+          "rank": 276.0
+        },
+        {
+          "article": "北の国から",
+          "project": "ja.wikipedia",
+          "views_ceil": 6700.0,
+          "rank": 277.0
+        },
+        {
+          "article": "御節料理",
+          "project": "ja.wikipedia",
+          "views_ceil": 6700.0,
+          "rank": 278.0
+        },
+        {
+          "article": "M-1グランプリ",
+          "project": "ja.wikipedia",
+          "views_ceil": 6700.0,
+          "rank": 279.0
+        },
+        {
+          "article": "橋本甜歌",
+          "project": "ja.wikipedia",
+          "views_ceil": 6700.0,
+          "rank": 280.0
+        },
+        {
+          "article": "本木雅弘",
+          "project": "ja.wikipedia",
+          "views_ceil": 6700.0,
+          "rank": 281.0
+        },
+        {
+          "article": "メジャー_(アニメ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 6700.0,
+          "rank": 282.0
+        },
+        {
+          "article": "ザ・プラン9",
+          "project": "ja.wikipedia",
+          "views_ceil": 6600.0,
+          "rank": 283.0
+        },
+        {
+          "article": "粗品_(お笑い芸人)",
+          "project": "ja.wikipedia",
+          "views_ceil": 6600.0,
+          "rank": 284.0
+        },
+        {
+          "article": "西村博之",
+          "project": "ja.wikipedia",
+          "views_ceil": 6500.0,
+          "rank": 285.0
+        },
+        {
+          "article": "函嶺洞門",
+          "project": "ja.wikipedia",
+          "views_ceil": 6500.0,
+          "rank": 286.0
+        },
+        {
+          "article": "染谷将太",
+          "project": "ja.wikipedia",
+          "views_ceil": 6500.0,
+          "rank": 287.0
+        },
+        {
+          "article": "村井美樹",
+          "project": "ja.wikipedia",
+          "views_ceil": 6500.0,
+          "rank": 288.0
+        },
+        {
+          "article": "長寿",
+          "project": "ja.wikipedia",
+          "views_ceil": 6500.0,
+          "rank": 289.0
+        },
+        {
+          "article": "渋沢栄一",
+          "project": "ja.wikipedia",
+          "views_ceil": 6400.0,
+          "rank": 290.0
+        },
+        {
+          "article": "夜に駆ける",
+          "project": "ja.wikipedia",
+          "views_ceil": 6400.0,
+          "rank": 291.0
+        },
+        {
+          "article": "大野智",
+          "project": "ja.wikipedia",
+          "views_ceil": 6400.0,
+          "rank": 292.0
+        },
+        {
+          "article": "転生したらスライムだった件",
+          "project": "ja.wikipedia",
+          "views_ceil": 6400.0,
+          "rank": 293.0
+        },
+        {
+          "article": "Twitter",
+          "project": "ja.wikipedia",
+          "views_ceil": 6400.0,
+          "rank": 294.0
+        },
+        {
+          "article": "DAIGO",
+          "project": "ja.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 295.0
+        },
+        {
+          "article": "アマビエ",
+          "project": "ja.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 296.0
+        },
+        {
+          "article": "二階俊博",
+          "project": "ja.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 297.0
+        },
+        {
+          "article": "八木菜緒",
+          "project": "ja.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 298.0
+        },
+        {
+          "article": "Superfly",
+          "project": "ja.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 299.0
+        },
+        {
+          "article": "フォンチー",
+          "project": "ja.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 300.0
+        },
+        {
+          "article": "大松絵美",
+          "project": "ja.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 301.0
+        },
+        {
+          "article": "SASUKE",
+          "project": "ja.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 301.0
+        },
+        {
+          "article": "櫻井孝宏",
+          "project": "ja.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 303.0
+        },
+        {
+          "article": "明智光秀",
+          "project": "ja.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 304.0
+        },
+        {
+          "article": "動植綵絵",
+          "project": "ja.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 305.0
+        },
+        {
+          "article": "渋野日向子",
+          "project": "ja.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 306.0
+        },
+        {
+          "article": "Special:Search",
+          "project": "en.wikipedia",
+          "views_ceil": 6300.0,
+          "rank": 307.0
+        },
+        {
+          "article": "那由他",
+          "project": "ja.wikipedia",
+          "views_ceil": 6200.0,
+          "rank": 308.0
+        },
+        {
+          "article": "荒木由美子",
+          "project": "ja.wikipedia",
+          "views_ceil": 6200.0,
+          "rank": 309.0
+        },
+        {
+          "article": "堂本剛",
+          "project": "ja.wikipedia",
+          "views_ceil": 6200.0,
+          "rank": 310.0
+        },
+        {
+          "article": "風が強く吹いている",
+          "project": "ja.wikipedia",
+          "views_ceil": 6200.0,
+          "rank": 311.0
+        },
+        {
+          "article": "池袋ウエストゲートパーク_(テレビドラマ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 6200.0,
+          "rank": 312.0
+        },
+        {
+          "article": "Wikipédia:Página_principal",
+          "project": "pt.wikipedia",
+          "views_ceil": 6200.0,
+          "rank": 313.0
+        },
+        {
+          "article": "生見愛瑠",
+          "project": "ja.wikipedia",
+          "views_ceil": 6200.0,
+          "rank": 314.0
+        },
+        {
+          "article": "橋本環奈",
+          "project": "ja.wikipedia",
+          "views_ceil": 6200.0,
+          "rank": 315.0
+        },
+        {
+          "article": "芦名星",
+          "project": "ja.wikipedia",
+          "views_ceil": 6200.0,
+          "rank": 315.0
+        },
+        {
+          "article": "初詣",
+          "project": "ja.wikipedia",
+          "views_ceil": 6200.0,
+          "rank": 317.0
+        },
+        {
+          "article": "千鳥_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 6100.0,
+          "rank": 318.0
+        },
+        {
+          "article": "浅田真央",
+          "project": "ja.wikipedia",
+          "views_ceil": 6100.0,
+          "rank": 319.0
+        },
+        {
+          "article": "香里奈",
+          "project": "ja.wikipedia",
+          "views_ceil": 6100.0,
+          "rank": 320.0
+        },
+        {
+          "article": "ターミナル_(映画)",
+          "project": "ja.wikipedia",
+          "views_ceil": 6100.0,
+          "rank": 321.0
+        },
+        {
+          "article": "小林旭",
+          "project": "ja.wikipedia",
+          "views_ceil": 6100.0,
+          "rank": 322.0
+        },
+        {
+          "article": "吉凶",
+          "project": "ja.wikipedia",
+          "views_ceil": 6100.0,
+          "rank": 323.0
+        },
+        {
+          "article": "ぺこぱ",
+          "project": "ja.wikipedia",
+          "views_ceil": 6100.0,
+          "rank": 324.0
+        },
+        {
+          "article": "松坂桃李",
+          "project": "ja.wikipedia",
+          "views_ceil": 6100.0,
+          "rank": 324.0
+        },
+        {
+          "article": "大森南朋",
+          "project": "ja.wikipedia",
+          "views_ceil": 6000.0,
+          "rank": 326.0
+        },
+        {
+          "article": "雙葉中学校・高等学校",
+          "project": "ja.wikipedia",
+          "views_ceil": 6000.0,
+          "rank": 327.0
+        },
+        {
+          "article": "桑子真帆",
+          "project": "ja.wikipedia",
+          "views_ceil": 6000.0,
+          "rank": 328.0
+        },
+        {
+          "article": "長谷川博己",
+          "project": "ja.wikipedia",
+          "views_ceil": 6000.0,
+          "rank": 329.0
+        },
+        {
+          "article": "日向坂46",
+          "project": "ja.wikipedia",
+          "views_ceil": 6000.0,
+          "rank": 329.0
+        },
+        {
+          "article": "細田善彦",
+          "project": "ja.wikipedia",
+          "views_ceil": 6000.0,
+          "rank": 331.0
+        },
+        {
+          "article": "小池百合子",
+          "project": "ja.wikipedia",
+          "views_ceil": 5900.0,
+          "rank": 332.0
+        },
+        {
+          "article": "内博貴",
+          "project": "ja.wikipedia",
+          "views_ceil": 5900.0,
+          "rank": 333.0
+        },
+        {
+          "article": "桃太郎電鉄シリーズ",
+          "project": "ja.wikipedia",
+          "views_ceil": 5900.0,
+          "rank": 334.0
+        },
+        {
+          "article": "全国高等学校サッカー選手権大会",
+          "project": "ja.wikipedia",
+          "views_ceil": 5900.0,
+          "rank": 335.0
+        },
+        {
+          "article": "絶対に笑ってはいけない大貧民GoToラスベガス24時!",
+          "project": "ja.wikipedia",
+          "views_ceil": 5900.0,
+          "rank": 336.0
+        },
+        {
+          "article": "V_(歌手)",
+          "project": "ja.wikipedia",
+          "views_ceil": 5900.0,
+          "rank": 337.0
+        },
+        {
+          "article": "佐藤健_(俳優)",
+          "project": "ja.wikipedia",
+          "views_ceil": 5900.0,
+          "rank": 337.0
+        },
+        {
+          "article": "中村悠一",
+          "project": "ja.wikipedia",
+          "views_ceil": 5900.0,
+          "rank": 339.0
+        },
+        {
+          "article": "蘭奢待",
+          "project": "ja.wikipedia",
+          "views_ceil": 5800.0,
+          "rank": 340.0
+        },
+        {
+          "article": "あいみょん",
+          "project": "ja.wikipedia",
+          "views_ceil": 5800.0,
+          "rank": 341.0
+        },
+        {
+          "article": "森香澄",
+          "project": "ja.wikipedia",
+          "views_ceil": 5800.0,
+          "rank": 342.0
+        },
+        {
+          "article": "レペゼン地球",
+          "project": "ja.wikipedia",
+          "views_ceil": 5800.0,
+          "rank": 343.0
+        },
+        {
+          "article": "木村拓哉",
+          "project": "ja.wikipedia",
+          "views_ceil": 5800.0,
+          "rank": 344.0
+        },
+        {
+          "article": "ケニア",
+          "project": "ja.wikipedia",
+          "views_ceil": 5800.0,
+          "rank": 345.0
+        },
+        {
+          "article": "男はつらいよ",
+          "project": "ja.wikipedia",
+          "views_ceil": 5800.0,
+          "rank": 346.0
+        },
+        {
+          "article": "蜷川幸雄",
+          "project": "ja.wikipedia",
+          "views_ceil": 5800.0,
+          "rank": 347.0
+        },
+        {
+          "article": "堂本光一",
+          "project": "ja.wikipedia",
+          "views_ceil": 5800.0,
+          "rank": 348.0
+        },
+        {
+          "article": "和田誠",
+          "project": "ja.wikipedia",
+          "views_ceil": 5700.0,
+          "rank": 349.0
+        },
+        {
+          "article": "炎炎ノ消防隊",
+          "project": "ja.wikipedia",
+          "views_ceil": 5700.0,
+          "rank": 350.0
+        },
+        {
+          "article": "性行為",
+          "project": "ja.wikipedia",
+          "views_ceil": 5700.0,
+          "rank": 350.0
+        },
+        {
+          "article": "1月2日",
+          "project": "ja.wikipedia",
+          "views_ceil": 5700.0,
+          "rank": 352.0
+        },
+        {
+          "article": "松平健",
+          "project": "ja.wikipedia",
+          "views_ceil": 5700.0,
+          "rank": 353.0
+        },
+        {
+          "article": "檀れい",
+          "project": "ja.wikipedia",
+          "views_ceil": 5700.0,
+          "rank": 354.0
+        },
+        {
+          "article": "Re:ゼロから始める異世界生活",
+          "project": "ja.wikipedia",
+          "views_ceil": 5600.0,
+          "rank": 355.0
+        },
+        {
+          "article": "竹内結子",
+          "project": "ja.wikipedia",
+          "views_ceil": 5600.0,
+          "rank": 356.0
+        },
+        {
+          "article": "義母と娘のブルース",
+          "project": "ja.wikipedia",
+          "views_ceil": 5600.0,
+          "rank": 357.0
+        },
+        {
+          "article": "Little_Glee_Monster",
+          "project": "ja.wikipedia",
+          "views_ceil": 5600.0,
+          "rank": 358.0
+        },
+        {
+          "article": "JUNG_KOOK",
+          "project": "ja.wikipedia",
+          "views_ceil": 5600.0,
+          "rank": 359.0
+        },
+        {
+          "article": "神田伯山_(6代目)",
+          "project": "ja.wikipedia",
+          "views_ceil": 5600.0,
+          "rank": 360.0
+        },
+        {
+          "article": "瀬古利彦",
+          "project": "ja.wikipedia",
+          "views_ceil": 5500.0,
+          "rank": 361.0
+        },
+        {
+          "article": "安位カヲル",
+          "project": "ja.wikipedia",
+          "views_ceil": 5500.0,
+          "rank": 362.0
+        },
+        {
+          "article": "ガリレオ_(テレビドラマ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 5500.0,
+          "rank": 363.0
+        },
+        {
+          "article": "吉本総合芸能学院",
+          "project": "ja.wikipedia",
+          "views_ceil": 5500.0,
+          "rank": 364.0
+        },
+        {
+          "article": "古閑美保",
+          "project": "ja.wikipedia",
+          "views_ceil": 5500.0,
+          "rank": 365.0
+        },
+        {
+          "article": "FANZA",
+          "project": "ja.wikipedia",
+          "views_ceil": 5500.0,
+          "rank": 366.0
+        },
+        {
+          "article": "多部未華子",
+          "project": "ja.wikipedia",
+          "views_ceil": 5500.0,
+          "rank": 367.0
+        },
+        {
+          "article": "ももいろクローバーZ",
+          "project": "ja.wikipedia",
+          "views_ceil": 5500.0,
+          "rank": 368.0
+        },
+        {
+          "article": "宇垣一成",
+          "project": "ja.wikipedia",
+          "views_ceil": 5500.0,
+          "rank": 369.0
+        },
+        {
+          "article": "ペスト医師",
+          "project": "ja.wikipedia",
+          "views_ceil": 5500.0,
+          "rank": 370.0
+        },
+        {
+          "article": "松本人志",
+          "project": "ja.wikipedia",
+          "views_ceil": 5400.0,
+          "rank": 371.0
+        },
+        {
+          "article": "十二支",
+          "project": "ja.wikipedia",
+          "views_ceil": 5400.0,
+          "rank": 372.0
+        },
+        {
+          "article": "NCT_(音楽グループ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 5400.0,
+          "rank": 373.0
+        },
+        {
+          "article": "伊沢拓司",
+          "project": "ja.wikipedia",
+          "views_ceil": 5400.0,
+          "rank": 374.0
+        },
+        {
+          "article": "斎藤利三",
+          "project": "ja.wikipedia",
+          "views_ceil": 5400.0,
+          "rank": 375.0
+        },
+        {
+          "article": "アイノカタチ_(曲)",
+          "project": "ja.wikipedia",
+          "views_ceil": 5400.0,
+          "rank": 376.0
+        },
+        {
+          "article": "干支",
+          "project": "ja.wikipedia",
+          "views_ceil": 5400.0,
+          "rank": 377.0
+        },
+        {
+          "article": "ハナコ",
+          "project": "ja.wikipedia",
+          "views_ceil": 5400.0,
+          "rank": 378.0
+        },
+        {
+          "article": "銀魂_(アニメ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 5400.0,
+          "rank": 379.0
+        },
+        {
+          "article": "全裸監督",
+          "project": "ja.wikipedia",
+          "views_ceil": 5400.0,
+          "rank": 380.0
+        },
+        {
+          "article": "ハマ・オカモト",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 381.0
+        },
+        {
+          "article": "ザ・ファブル",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 381.0
+        },
+        {
+          "article": "コウラン伝_始皇帝の母",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 383.0
+        },
+        {
+          "article": "松岡禎丞",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 384.0
+        },
+        {
+          "article": "梨泰院クラス",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 385.0
+        },
+        {
+          "article": "菊池風磨",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 386.0
+        },
+        {
+          "article": "龍が如くシリーズの登場人物",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 387.0
+        },
+        {
+          "article": "ゆり香",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 388.0
+        },
+        {
+          "article": "青木崇高",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 389.0
+        },
+        {
+          "article": "駒澤大学",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 390.0
+        },
+        {
+          "article": "山口智充",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 391.0
+        },
+        {
+          "article": "スペインかぜ",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 392.0
+        },
+        {
+          "article": "ハリウッドザコシショウ",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 393.0
+        },
+        {
+          "article": "安田章大",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 394.0
+        },
+        {
+          "article": "髙地優吾",
+          "project": "ja.wikipedia",
+          "views_ceil": 5300.0,
+          "rank": 395.0
+        },
+        {
+          "article": "日日是好日",
+          "project": "ja.wikipedia",
+          "views_ceil": 5200.0,
+          "rank": 396.0
+        },
+        {
+          "article": "パク・ジニョン",
+          "project": "ja.wikipedia",
+          "views_ceil": 5200.0,
+          "rank": 397.0
+        },
+        {
+          "article": "スダリオ剛",
+          "project": "ja.wikipedia",
+          "views_ceil": 5200.0,
+          "rank": 398.0
+        },
+        {
+          "article": "安藤サクラ",
+          "project": "ja.wikipedia",
+          "views_ceil": 5200.0,
+          "rank": 399.0
+        },
+        {
+          "article": "田淵幸一",
+          "project": "ja.wikipedia",
+          "views_ceil": 5200.0,
+          "rank": 399.0
+        },
+        {
+          "article": "市川猿之助_(4代目)",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 401.0
+        },
+        {
+          "article": "田中樹",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 402.0
+        },
+        {
+          "article": "丘みどり",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 403.0
+        },
+        {
+          "article": "飯豊まりえ",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 404.0
+        },
+        {
+          "article": "吉岡秀隆",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 405.0
+        },
+        {
+          "article": "シオサイア・フィフィタ",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 406.0
+        },
+        {
+          "article": "銀魂",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 407.0
+        },
+        {
+          "article": "菅義偉",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 407.0
+        },
+        {
+          "article": "BLACKPINK",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 409.0
+        },
+        {
+          "article": "出川哲朗の充電させてもらえませんか?",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 410.0
+        },
+        {
+          "article": "中村蒼",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 411.0
+        },
+        {
+          "article": "豆柴の大群",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 412.0
+        },
+        {
+          "article": "島田珠代",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 413.0
+        },
+        {
+          "article": "窪塚洋介",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 414.0
+        },
+        {
+          "article": "かまいたち_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 5100.0,
+          "rank": 415.0
+        },
+        {
+          "article": "新春スポーツスペシャル箱根駅伝",
+          "project": "ja.wikipedia",
+          "views_ceil": 5000.0,
+          "rank": 416.0
+        },
+        {
+          "article": "佐倉綾音",
+          "project": "ja.wikipedia",
+          "views_ceil": 5000.0,
+          "rank": 417.0
+        },
+        {
+          "article": "樹木希林",
+          "project": "ja.wikipedia",
+          "views_ceil": 5000.0,
+          "rank": 418.0
+        },
+        {
+          "article": "成田凌",
+          "project": "ja.wikipedia",
+          "views_ceil": 5000.0,
+          "rank": 419.0
+        },
+        {
+          "article": "窪田正孝",
+          "project": "ja.wikipedia",
+          "views_ceil": 5000.0,
+          "rank": 420.0
+        },
+        {
+          "article": "吉沢亮",
+          "project": "ja.wikipedia",
+          "views_ceil": 5000.0,
+          "rank": 421.0
+        },
+        {
+          "article": "田中将大",
+          "project": "ja.wikipedia",
+          "views_ceil": 5000.0,
+          "rank": 422.0
+        },
+        {
+          "article": "河井継之助",
+          "project": "ja.wikipedia",
+          "views_ceil": 5000.0,
+          "rank": 423.0
+        },
+        {
+          "article": "七つの大罪_(漫画)",
+          "project": "ja.wikipedia",
+          "views_ceil": 5000.0,
+          "rank": 424.0
+        },
+        {
+          "article": "箱根小涌園",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 425.0
+        },
+        {
+          "article": "ジェフリー・エプスタイン",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 426.0
+        },
+        {
+          "article": "櫻坂46",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 427.0
+        },
+        {
+          "article": "伊藤沙莉",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 428.0
+        },
+        {
+          "article": "三浦瑠麗",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 429.0
+        },
+        {
+          "article": "松田洋治",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 430.0
+        },
+        {
+          "article": "大八木弘明",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 431.0
+        },
+        {
+          "article": "酒井俊幸_(陸上選手)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 432.0
+        },
+        {
+          "article": "King_\u0026_Prince",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 433.0
+        },
+        {
+          "article": "海野つなみ",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 434.0
+        },
+        {
+          "article": "茂野吾郎",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 435.0
+        },
+        {
+          "article": "駅伝競走",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 436.0
+        },
+        {
+          "article": "正月三が日",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 437.0
+        },
+        {
+          "article": "トーマの心臓",
+          "project": "ja.wikipedia",
+          "views_ceil": 4900.0,
+          "rank": 438.0
+        },
+        {
+          "article": "Instagram",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 439.0
+        },
+        {
+          "article": "Netflix",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 440.0
+        },
+        {
+          "article": "King_Gnu",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 441.0
+        },
+        {
+          "article": "町田啓太",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 442.0
+        },
+        {
+          "article": "梶浦由記",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 443.0
+        },
+        {
+          "article": "大迫傑",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 444.0
+        },
+        {
+          "article": "ゴールデンスランバー",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 445.0
+        },
+        {
+          "article": "福山雅治",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 446.0
+        },
+        {
+          "article": "成宮寛貴",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 446.0
+        },
+        {
+          "article": "大地真央",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 448.0
+        },
+        {
+          "article": "東京喰種トーキョーグール",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 449.0
+        },
+        {
+          "article": "ワールド・ウォーZ",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 450.0
+        },
+        {
+          "article": "ジャンヌ・ダルク",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 451.0
+        },
+        {
+          "article": "両面宿儺",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 452.0
+        },
+        {
+          "article": "ジャニーズ事務所",
+          "project": "ja.wikipedia",
+          "views_ceil": 4800.0,
+          "rank": 453.0
+        },
+        {
+          "article": "鈴木保奈美",
+          "project": "ja.wikipedia",
+          "views_ceil": 4700.0,
+          "rank": 454.0
+        },
+        {
+          "article": "秋吉久美子",
+          "project": "ja.wikipedia",
+          "views_ceil": 4700.0,
+          "rank": 455.0
+        },
+        {
+          "article": "永山絢斗",
+          "project": "ja.wikipedia",
+          "views_ceil": 4700.0,
+          "rank": 456.0
+        },
+        {
+          "article": "湯原昌幸",
+          "project": "ja.wikipedia",
+          "views_ceil": 4700.0,
+          "rank": 457.0
+        },
+        {
+          "article": "深津絵里",
+          "project": "ja.wikipedia",
+          "views_ceil": 4700.0,
+          "rank": 458.0
+        },
+        {
+          "article": "Pornhub",
+          "project": "ja.wikipedia",
+          "views_ceil": 4700.0,
+          "rank": 459.0
+        },
+        {
+          "article": "指原莉乃",
+          "project": "ja.wikipedia",
+          "views_ceil": 4700.0,
+          "rank": 460.0
+        },
+        {
+          "article": "YouTube",
+          "project": "ja.wikipedia",
+          "views_ceil": 4700.0,
+          "rank": 461.0
+        },
+        {
+          "article": "堤礼実",
+          "project": "ja.wikipedia",
+          "views_ceil": 4700.0,
+          "rank": 462.0
+        },
+        {
+          "article": "芥見下々",
+          "project": "ja.wikipedia",
+          "views_ceil": 4700.0,
+          "rank": 463.0
+        },
+        {
+          "article": "リットン調査団",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 464.0
+        },
+        {
+          "article": "麒麟がくる",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 465.0
+        },
+        {
+          "article": "堀越高等学校",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 466.0
+        },
+        {
+          "article": "ソードアート・オンライン",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 467.0
+        },
+        {
+          "article": "石川遼",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 468.0
+        },
+        {
+          "article": "ジェシー_(俳優)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 469.0
+        },
+        {
+          "article": "恋はつづくよどこまでも",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 469.0
+        },
+        {
+          "article": "ONE_PIECE",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 471.0
+        },
+        {
+          "article": "全日本大学駅伝対校選手権大会",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 472.0
+        },
+        {
+          "article": "東京六大学",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 473.0
+        },
+        {
+          "article": "田中美佐子",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 474.0
+        },
+        {
+          "article": "瀧川鯉斗",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 475.0
+        },
+        {
+          "article": "木の実ナナ",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 476.0
+        },
+        {
+          "article": "シソンヌ_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 477.0
+        },
+        {
+          "article": "寺田心",
+          "project": "ja.wikipedia",
+          "views_ceil": 4600.0,
+          "rank": 478.0
+        },
+        {
+          "article": "二宮和也",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 479.0
+        },
+        {
+          "article": "A.B.C-Z",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 480.0
+        },
+        {
+          "article": "櫻井翔",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 480.0
+        },
+        {
+          "article": "柴田英嗣",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 482.0
+        },
+        {
+          "article": "杉咲花",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 483.0
+        },
+        {
+          "article": "堀内敬子",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 484.0
+        },
+        {
+          "article": "オナニー",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 485.0
+        },
+        {
+          "article": "世田谷一家殺害事件",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 486.0
+        },
+        {
+          "article": "石井めぐみ",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 487.0
+        },
+        {
+          "article": "大倉忠義",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 488.0
+        },
+        {
+          "article": "はじめの一歩",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 489.0
+        },
+        {
+          "article": "高橋しげみ",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 490.0
+        },
+        {
+          "article": "五味隆典",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 491.0
+        },
+        {
+          "article": "さくらまや",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 492.0
+        },
+        {
+          "article": "沢城みゆき",
+          "project": "ja.wikipedia",
+          "views_ceil": 4500.0,
+          "rank": 493.0
+        },
+        {
+          "article": "香川照之",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 494.0
+        },
+        {
+          "article": "カンパチ",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 495.0
+        },
+        {
+          "article": "イグアナの娘",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 496.0
+        },
+        {
+          "article": "中越典子",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 497.0
+        },
+        {
+          "article": "女性器",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 498.0
+        },
+        {
+          "article": "具雑煮",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 499.0
+        },
+        {
+          "article": "ダルビッシュ有",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 500.0
+        },
+        {
+          "article": "アメリカ合衆国",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 501.0
+        },
+        {
+          "article": "潮吹き_(女性器)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 502.0
+        },
+        {
+          "article": "ぼる塾",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 503.0
+        },
+        {
+          "article": "織田信長",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 504.0
+        },
+        {
+          "article": "ペスト",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 505.0
+        },
+        {
+          "article": "三上悠亜",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 506.0
+        },
+        {
+          "article": "千石規子",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 507.0
+        },
+        {
+          "article": "菅田将暉",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 508.0
+        },
+        {
+          "article": "西村康稔",
+          "project": "ja.wikipedia",
+          "views_ceil": 4400.0,
+          "rank": 509.0
+        },
+        {
+          "article": "しゅんしゅんクリニックP",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 510.0
+        },
+        {
+          "article": "石田彰",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 511.0
+        },
+        {
+          "article": "機動戦士ガンダムUC",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 512.0
+        },
+        {
+          "article": "雑煮",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 513.0
+        },
+        {
+          "article": "ボクシング現王者一覧",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 514.0
+        },
+        {
+          "article": "小澤征悦",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 515.0
+        },
+        {
+          "article": "始皇帝",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 516.0
+        },
+        {
+          "article": "風の谷のナウシカの登場人物",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 517.0
+        },
+        {
+          "article": "岡崎百々子",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 518.0
+        },
+        {
+          "article": "本田望結",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 519.0
+        },
+        {
+          "article": "東京都",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 520.0
+        },
+        {
+          "article": "数の子",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 521.0
+        },
+        {
+          "article": "木村有希_(モデル)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 522.0
+        },
+        {
+          "article": "お笑い第七世代",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 522.0
+        },
+        {
+          "article": "Sexy_Zone",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 524.0
+        },
+        {
+          "article": "ダンジョンに出会いを求めるのは間違っているだろうか",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 525.0
+        },
+        {
+          "article": "YOSHIKI",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 526.0
+        },
+        {
+          "article": "中村勘三郎_(18代目)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 527.0
+        },
+        {
+          "article": "ひぐらしのなく頃に",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 528.0
+        },
+        {
+          "article": "ホリデイラブ_〜夫婦間恋愛〜",
+          "project": "ja.wikipedia",
+          "views_ceil": 4300.0,
+          "rank": 529.0
+        },
+        {
+          "article": "BanG_Dream!",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 530.0
+        },
+        {
+          "article": "ラウール_(ジャニーズ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 531.0
+        },
+        {
+          "article": "石原良純",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 532.0
+        },
+        {
+          "article": "横浜米軍機墜落事件",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 533.0
+        },
+        {
+          "article": "山田勝己",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 534.0
+        },
+        {
+          "article": "オードリー・ヘプバーン",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 535.0
+        },
+        {
+          "article": "鬼越トマホーク",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 536.0
+        },
+        {
+          "article": "綾野剛",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 536.0
+        },
+        {
+          "article": "日野聡",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 538.0
+        },
+        {
+          "article": "三浦翔平",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 538.0
+        },
+        {
+          "article": "松本潤",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 540.0
+        },
+        {
+          "article": "ナイト\u0026デイ",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 541.0
+        },
+        {
+          "article": "東京都立若葉総合高等学校",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 542.0
+        },
+        {
+          "article": "野際陽子",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 543.0
+        },
+        {
+          "article": "ウィキペディア",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 544.0
+        },
+        {
+          "article": "生野陽子",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 545.0
+        },
+        {
+          "article": "内山昂輝",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 546.0
+        },
+        {
+          "article": "バカリズム",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 547.0
+        },
+        {
+          "article": "島原の乱",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 548.0
+        },
+        {
+          "article": "滝沢カレン",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 549.0
+        },
+        {
+          "article": "徳本一善",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 550.0
+        },
+        {
+          "article": "池玉瀾",
+          "project": "ja.wikipedia",
+          "views_ceil": 4200.0,
+          "rank": 551.0
+        },
+        {
+          "article": "井浦新",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 552.0
+        },
+        {
+          "article": "中元すず香",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 553.0
+        },
+        {
+          "article": "新感染半島_ファイナル・ステージ",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 554.0
+        },
+        {
+          "article": "キングダム_(漫画)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 555.0
+        },
+        {
+          "article": "魔女の旅々",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 556.0
+        },
+        {
+          "article": "おいでやす小田",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 557.0
+        },
+        {
+          "article": "マンダロリアン_(テレビドラマ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 558.0
+        },
+        {
+          "article": "チェンソーマン",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 559.0
+        },
+        {
+          "article": "全国高等学校サッカー選手権大会歴代優勝校",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 560.0
+        },
+        {
+          "article": "ねこ屋敷",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 561.0
+        },
+        {
+          "article": "新感染_ファイナル・エクスプレス",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 562.0
+        },
+        {
+          "article": "パク・ソジュン",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 562.0
+        },
+        {
+          "article": "Dr.コトー診療所",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 564.0
+        },
+        {
+          "article": "ガールズ\u0026パンツァー",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 565.0
+        },
+        {
+          "article": "内村光良",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 566.0
+        },
+        {
+          "article": "単位一覧",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 567.0
+        },
+        {
+          "article": "松村北斗",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 568.0
+        },
+        {
+          "article": "中川大志_(俳優)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 569.0
+        },
+        {
+          "article": "エール_(テレビドラマ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 569.0
+        },
+        {
+          "article": "井上尚弥",
+          "project": "ja.wikipedia",
+          "views_ceil": 4100.0,
+          "rank": 571.0
+        },
+        {
+          "article": "フリーエージェント_(日本プロ野球)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 572.0
+        },
+        {
+          "article": "自殺・自決・自害した日本の著名人物一覧",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 573.0
+        },
+        {
+          "article": "元日",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 574.0
+        },
+        {
+          "article": "ゴッドファーザー_(映画)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 575.0
+        },
+        {
+          "article": "藤森慎吾",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 576.0
+        },
+        {
+          "article": "紅蓮華_(LiSAの曲)",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 577.0
+        },
+        {
+          "article": "山本徳郁",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 577.0
+        },
+        {
+          "article": "ジャンヌ・カルマン",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 579.0
+        },
+        {
+          "article": "中田敦彦",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 580.0
+        },
+        {
+          "article": "神谷優太",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 581.0
+        },
+        {
+          "article": "平野紫耀",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 582.0
+        },
+        {
+          "article": "永山竜弥",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 583.0
+        },
+        {
+          "article": "常田大希",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 584.0
+        },
+        {
+          "article": "おいでやすこが",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 584.0
+        },
+        {
+          "article": "吉備真備",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 586.0
+        },
+        {
+          "article": "ハンカチ世代",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 587.0
+        },
+        {
+          "article": "神様になった日",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 587.0
+        },
+        {
+          "article": "TRICERATOPS",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 589.0
+        },
+        {
+          "article": "土佐兄弟",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 589.0
+        },
+        {
+          "article": "杉谷満",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 589.0
+        },
+        {
+          "article": "平手友梨奈",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 592.0
+        },
+        {
+          "article": "1903年",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 593.0
+        },
+        {
+          "article": "パーパー",
+          "project": "ja.wikipedia",
+          "views_ceil": 4000.0,
+          "rank": 594.0
+        },
+        {
+          "article": "鷲見玲奈",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 595.0
+        },
+        {
+          "article": "塙宣之",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 596.0
+        },
+        {
+          "article": "信濃_(空母)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 597.0
+        },
+        {
+          "article": "山之内すず",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 598.0
+        },
+        {
+          "article": "炎_(LiSAの曲)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 599.0
+        },
+        {
+          "article": "五木ひろし",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 600.0
+        },
+        {
+          "article": "長瀬智也",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 600.0
+        },
+        {
+          "article": "嵐を呼ぶ男",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 602.0
+        },
+        {
+          "article": "長嶋茂雄",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 603.0
+        },
+        {
+          "article": "三淵藤英",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 604.0
+        },
+        {
+          "article": "酒匂川",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 605.0
+        },
+        {
+          "article": "チョロギ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 606.0
+        },
+        {
+          "article": "皆川猿時",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 607.0
+        },
+        {
+          "article": "僕のヒーローアカデミア",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 608.0
+        },
+        {
+          "article": "渡辺康幸",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 609.0
+        },
+        {
+          "article": "PSYCHO-PASS",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 609.0
+        },
+        {
+          "article": "柄本明",
+          "project": "ja.wikipedia",
+          "views_ceil": 3900.0,
+          "rank": 611.0
+        },
+        {
+          "article": "MAJOR",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 612.0
+        },
+        {
+          "article": "陰核",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 613.0
+        },
+        {
+          "article": "ダチョウ倶楽部",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 613.0
+        },
+        {
+          "article": "上坂すみれ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 615.0
+        },
+        {
+          "article": "松陰寺太勇",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 616.0
+        },
+        {
+          "article": "榎木淳弥",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 617.0
+        },
+        {
+          "article": "皇治",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 618.0
+        },
+        {
+          "article": "深田えいみ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 618.0
+        },
+        {
+          "article": "高橋惠子",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 620.0
+        },
+        {
+          "article": "マルタ島",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 621.0
+        },
+        {
+          "article": "DISH/",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 622.0
+        },
+        {
+          "article": "梶裕貴",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 622.0
+        },
+        {
+          "article": "劇場版_銀魂_完結篇_万事屋よ永遠なれ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 622.0
+        },
+        {
+          "article": "第97回東京箱根間往復大学駅伝競走",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 622.0
+        },
+        {
+          "article": "関根明良",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 622.0
+        },
+        {
+          "article": "椎名林檎",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 627.0
+        },
+        {
+          "article": "桐谷美玲",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 628.0
+        },
+        {
+          "article": "新型インフルエンザ等対策特別措置法",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 629.0
+        },
+        {
+          "article": "池田博正",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 630.0
+        },
+        {
+          "article": "藤井隆",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 630.0
+        },
+        {
+          "article": "らくだ_(落語)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 632.0
+        },
+        {
+          "article": "鬼龍院翔",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 633.0
+        },
+        {
+          "article": "米津玄師",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 634.0
+        },
+        {
+          "article": "高橋愛",
+          "project": "ja.wikipedia",
+          "views_ceil": 3800.0,
+          "rank": 635.0
+        },
+        {
+          "article": "銀魂の登場人物一覧",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 636.0
+        },
+        {
+          "article": "森本裕介",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 637.0
+        },
+        {
+          "article": "津田健次郎",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 638.0
+        },
+        {
+          "article": "錦戸亮",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 639.0
+        },
+        {
+          "article": "片瀬那奈",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 640.0
+        },
+        {
+          "article": "昌平中学・高等学校",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 641.0
+        },
+        {
+          "article": "相葉雅紀",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 642.0
+        },
+        {
+          "article": "残酷な神が支配する",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 643.0
+        },
+        {
+          "article": "氷川きよし",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 644.0
+        },
+        {
+          "article": "長谷川育美",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 645.0
+        },
+        {
+          "article": "24_JAPAN",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 646.0
+        },
+        {
+          "article": "カズレーザー",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 647.0
+        },
+        {
+          "article": "杉田智和",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 648.0
+        },
+        {
+          "article": "ソーイング・ビー",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 649.0
+        },
+        {
+          "article": "玄田哲章",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 650.0
+        },
+        {
+          "article": "エレクトラ_(2005年の映画)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 651.0
+        },
+        {
+          "article": "足立梨花",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 652.0
+        },
+        {
+          "article": "渥美清",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 653.0
+        },
+        {
+          "article": "風の谷のナウシカ_(映画)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 654.0
+        },
+        {
+          "article": "正月",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 655.0
+        },
+        {
+          "article": "ヒプノシスマイク",
+          "project": "ja.wikipedia",
+          "views_ceil": 3700.0,
+          "rank": 656.0
+        },
+        {
+          "article": "コンフィデンスマンJP",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 657.0
+        },
+        {
+          "article": "東海大学",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 658.0
+        },
+        {
+          "article": "ダウンタウンのガキの使いやあらへんで!",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 659.0
+        },
+        {
+          "article": "ヘタフェCF",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 660.0
+        },
+        {
+          "article": "1月3日",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 661.0
+        },
+        {
+          "article": "河合郁人",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 662.0
+        },
+        {
+          "article": "松任谷由実",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 663.0
+        },
+        {
+          "article": "趙方豪",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 664.0
+        },
+        {
+          "article": "桜塚やっくん",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 665.0
+        },
+        {
+          "article": "長州力",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 666.0
+        },
+        {
+          "article": "せいや",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 667.0
+        },
+        {
+          "article": "鞘師里保",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 667.0
+        },
+        {
+          "article": "高城れに",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 669.0
+        },
+        {
+          "article": "生田斗真",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 670.0
+        },
+        {
+          "article": "都道府県の人口一覧",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 671.0
+        },
+        {
+          "article": "赤楚衛二",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 671.0
+        },
+        {
+          "article": "おみくじ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 673.0
+        },
+        {
+          "article": "Kis-My-Ft2",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 674.0
+        },
+        {
+          "article": "ニュー・シネマ・パラダイス",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 675.0
+        },
+        {
+          "article": "三笘薫",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 675.0
+        },
+        {
+          "article": "東洋大学",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 675.0
+        },
+        {
+          "article": "オラキオ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 678.0
+        },
+        {
+          "article": "七草がゆ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3600.0,
+          "rank": 679.0
+        },
+        {
+          "article": "のんのんびより",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 680.0
+        },
+        {
+          "article": "佐藤悠基",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 681.0
+        },
+        {
+          "article": "パソナ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 682.0
+        },
+        {
+          "article": "大樹生命保険",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 683.0
+        },
+        {
+          "article": "トム・クルーズ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 684.0
+        },
+        {
+          "article": "サンドウィッチマン_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 685.0
+        },
+        {
+          "article": "磯野貴理子",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 686.0
+        },
+        {
+          "article": "Hey!_Say!_JUMP",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 687.0
+        },
+        {
+          "article": "フレディ・マーキュリー",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 688.0
+        },
+        {
+          "article": "岡田健史",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 688.0
+        },
+        {
+          "article": "まんこ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 688.0
+        },
+        {
+          "article": "陰翳礼讃",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 688.0
+        },
+        {
+          "article": "キャツミ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 692.0
+        },
+        {
+          "article": "レッド吉田",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 693.0
+        },
+        {
+          "article": "小芝風花",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 694.0
+        },
+        {
+          "article": "山田杏奈",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 695.0
+        },
+        {
+          "article": "江口のりこ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 696.0
+        },
+        {
+          "article": "齋藤飛鳥",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 697.0
+        },
+        {
+          "article": "MUTEKI",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 698.0
+        },
+        {
+          "article": "山本舞香",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 698.0
+        },
+        {
+          "article": "射精",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 700.0
+        },
+        {
+          "article": "Template:ActorActress",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 701.0
+        },
+        {
+          "article": "2021年",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 702.0
+        },
+        {
+          "article": "七つの大罪",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 703.0
+        },
+        {
+          "article": "田中聖",
+          "project": "ja.wikipedia",
+          "views_ceil": 3500.0,
+          "rank": 704.0
+        },
+        {
+          "article": "山の神",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 705.0
+        },
+        {
+          "article": "半沢直樹",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 706.0
+        },
+        {
+          "article": "ゴールデンカムイ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 707.0
+        },
+        {
+          "article": "神田沙也加",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 708.0
+        },
+        {
+          "article": "仮面ライダークウガ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 709.0
+        },
+        {
+          "article": "トミーズ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 710.0
+        },
+        {
+          "article": "天照大神",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 711.0
+        },
+        {
+          "article": "第95回東京箱根間往復大学駅伝競走",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 712.0
+        },
+        {
+          "article": "ヤマザキマリ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 713.0
+        },
+        {
+          "article": "Stray_Kids",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 714.0
+        },
+        {
+          "article": "青山学院大学陸上競技部",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 714.0
+        },
+        {
+          "article": "金子恵美_(1978年生の政治家)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 716.0
+        },
+        {
+          "article": "カウボーイビバップ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 717.0
+        },
+        {
+          "article": "柴咲コウ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 718.0
+        },
+        {
+          "article": "佐久長聖中学校・高等学校",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 718.0
+        },
+        {
+          "article": "南野陽子",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 720.0
+        },
+        {
+          "article": "ヒカル_(YouTuber)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 721.0
+        },
+        {
+          "article": "森口瑤子",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 722.0
+        },
+        {
+          "article": "東山紀之",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 723.0
+        },
+        {
+          "article": "松田聖子",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 724.0
+        },
+        {
+          "article": "野口聡一",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 725.0
+        },
+        {
+          "article": "水野由結",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 726.0
+        },
+        {
+          "article": "加藤史帆",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 727.0
+        },
+        {
+          "article": "堺雅人",
+          "project": "ja.wikipedia",
+          "views_ceil": 3400.0,
+          "rank": 728.0
+        },
+        {
+          "article": "JIN_(歌手)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 729.0
+        },
+        {
+          "article": "大塚明夫",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 730.0
+        },
+        {
+          "article": "木村佳乃",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 731.0
+        },
+        {
+          "article": "ジョゼと虎と魚たち",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 732.0
+        },
+        {
+          "article": "ヱヴァンゲリヲン新劇場版",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 733.0
+        },
+        {
+          "article": "ALWAYS_三丁目の夕日",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 734.0
+        },
+        {
+          "article": "谷崎潤一郎",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 735.0
+        },
+        {
+          "article": "内田裕也",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 736.0
+        },
+        {
+          "article": "緑黄色社会",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 737.0
+        },
+        {
+          "article": "第71回NHK紅白歌合戦",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 738.0
+        },
+        {
+          "article": "小杉竜一",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 739.0
+        },
+        {
+          "article": "麻枝准",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 739.0
+        },
+        {
+          "article": "島﨑信長",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 741.0
+        },
+        {
+          "article": "SMAP",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 742.0
+        },
+        {
+          "article": "ジョセフ・オツオリ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 742.0
+        },
+        {
+          "article": "Dr.STONE",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 744.0
+        },
+        {
+          "article": "倉科カナ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 745.0
+        },
+        {
+          "article": "ブラッククローバー",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 746.0
+        },
+        {
+          "article": "森川智之",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 747.0
+        },
+        {
+          "article": "美村里江",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 747.0
+        },
+        {
+          "article": "井上真央",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 749.0
+        },
+        {
+          "article": "芦田愛菜",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 750.0
+        },
+        {
+          "article": "京本大我",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 751.0
+        },
+        {
+          "article": "JUJU",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 752.0
+        },
+        {
+          "article": "大倉財閥",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 753.0
+        },
+        {
+          "article": "松元ヒロ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 754.0
+        },
+        {
+          "article": "藤原啓治",
+          "project": "ja.wikipedia",
+          "views_ceil": 3300.0,
+          "rank": 755.0
+        },
+        {
+          "article": "田中恒成",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 756.0
+        },
+        {
+          "article": "膣内射精",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 756.0
+        },
+        {
+          "article": "青山学院大学",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 758.0
+        },
+        {
+          "article": "東京事変",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 759.0
+        },
+        {
+          "article": "前澤友作",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 759.0
+        },
+        {
+          "article": "ヒロド歩美",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 761.0
+        },
+        {
+          "article": "内田理央",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 762.0
+        },
+        {
+          "article": "千葉雄大",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 763.0
+        },
+        {
+          "article": "妻夫木聡",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 764.0
+        },
+        {
+          "article": "ゾンダーコマンド_(強制収容所)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 765.0
+        },
+        {
+          "article": "唯井まひろ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 766.0
+        },
+        {
+          "article": "大塚芳忠",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 767.0
+        },
+        {
+          "article": "ムロツヨシ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 768.0
+        },
+        {
+          "article": "倉木麻衣",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 769.0
+        },
+        {
+          "article": "大富豪",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 770.0
+        },
+        {
+          "article": "駒田航",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 771.0
+        },
+        {
+          "article": "チョ・ヨジョン",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 772.0
+        },
+        {
+          "article": "日本レコード大賞",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 773.0
+        },
+        {
+          "article": "飛田遊廓",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 774.0
+        },
+        {
+          "article": "ユーフォーテーブル",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 775.0
+        },
+        {
+          "article": "伊東美咲",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 776.0
+        },
+        {
+          "article": "オール阪神・巨人",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 777.0
+        },
+        {
+          "article": "さらば青春の光_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3200.0,
+          "rank": 778.0
+        },
+        {
+          "article": "ゲシュタルト崩壊",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 779.0
+        },
+        {
+          "article": "ログ・ホライズン",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 780.0
+        },
+        {
+          "article": "神谷浩史",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 781.0
+        },
+        {
+          "article": "高樹リサ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 781.0
+        },
+        {
+          "article": "ミルクボーイ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 783.0
+        },
+        {
+          "article": "大東駿介",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 784.0
+        },
+        {
+          "article": "西加奈子",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 784.0
+        },
+        {
+          "article": "Mr.Children",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 786.0
+        },
+        {
+          "article": "柄本時生",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 787.0
+        },
+        {
+          "article": "ゆるキャン△",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 788.0
+        },
+        {
+          "article": "ハリー・ポッターシリーズ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 788.0
+        },
+        {
+          "article": "目黒日本大学中学校・高等学校",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 790.0
+        },
+        {
+          "article": "ITZY",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 791.0
+        },
+        {
+          "article": "佐野千晃",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 792.0
+        },
+        {
+          "article": "泉重千代",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 792.0
+        },
+        {
+          "article": "瀧内公美",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 794.0
+        },
+        {
+          "article": "アンミカ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 795.0
+        },
+        {
+          "article": "自由の森学園中学校・高等学校",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 796.0
+        },
+        {
+          "article": "森且行",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 797.0
+        },
+        {
+          "article": "尾上松也_(2代目)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 797.0
+        },
+        {
+          "article": "ニーア_オートマタ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 799.0
+        },
+        {
+          "article": "東雲うみ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 800.0
+        },
+        {
+          "article": "蜷川実花",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 801.0
+        },
+        {
+          "article": "頭文字D",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 802.0
+        },
+        {
+          "article": "ラランド_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 803.0
+        },
+        {
+          "article": "GIGANT",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 804.0
+        },
+        {
+          "article": "JIMIN",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 805.0
+        },
+        {
+          "article": "グルーポン・ジャパン",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 806.0
+        },
+        {
+          "article": "ブリ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 807.0
+        },
+        {
+          "article": "石原慎太郎",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 808.0
+        },
+        {
+          "article": "有村架純",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 808.0
+        },
+        {
+          "article": "HIKAKIN",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 810.0
+        },
+        {
+          "article": "ジャルジャル",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 811.0
+        },
+        {
+          "article": "AKB48",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 812.0
+        },
+        {
+          "article": "仲間由紀恵",
+          "project": "ja.wikipedia",
+          "views_ceil": 3100.0,
+          "rank": 813.0
+        },
+        {
+          "article": "11人いる!",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 814.0
+        },
+        {
+          "article": "藤井聡太",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 814.0
+        },
+        {
+          "article": "青天を衝け",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 816.0
+        },
+        {
+          "article": "DRAGON_QUEST_-ダイの大冒険-",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 817.0
+        },
+        {
+          "article": "徳川家康",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 817.0
+        },
+        {
+          "article": "えんとつ町のプペル",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 819.0
+        },
+        {
+          "article": "こがけん",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 820.0
+        },
+        {
+          "article": "清原果耶",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 821.0
+        },
+        {
+          "article": "宮下草薙",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 821.0
+        },
+        {
+          "article": "大野元裕",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 823.0
+        },
+        {
+          "article": "イギリス",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 823.0
+        },
+        {
+          "article": "林遣都",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 825.0
+        },
+        {
+          "article": "水曜どうでしょう",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 826.0
+        },
+        {
+          "article": "大竹しのぶ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 827.0
+        },
+        {
+          "article": "五等分の花嫁",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 827.0
+        },
+        {
+          "article": "Special:搜索",
+          "project": "zh.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 829.0
+        },
+        {
+          "article": "藤田ニコル",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 830.0
+        },
+        {
+          "article": "年男・年女",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 831.0
+        },
+        {
+          "article": "松下洸平",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 832.0
+        },
+        {
+          "article": "石橋穂乃香",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 832.0
+        },
+        {
+          "article": "赤西仁",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 834.0
+        },
+        {
+          "article": "趙姫_(荘襄王)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 835.0
+        },
+        {
+          "article": "王貞治",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 836.0
+        },
+        {
+          "article": "ET-KING",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 836.0
+        },
+        {
+          "article": "フロイド・メイウェザー・ジュニア",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 838.0
+        },
+        {
+          "article": "KAT-TUN",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 838.0
+        },
+        {
+          "article": "羽田雄一郎",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 840.0
+        },
+        {
+          "article": "HUNTER×HUNTER",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 841.0
+        },
+        {
+          "article": "美少女戦士セーラームーン",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 842.0
+        },
+        {
+          "article": "2020年",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 843.0
+        },
+        {
+          "article": "ハイヒール_(お笑い)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 844.0
+        },
+        {
+          "article": "黒木香",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 845.0
+        },
+        {
+          "article": "既婚",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 846.0
+        },
+        {
+          "article": "OKAMOTO\u0027S",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 847.0
+        },
+        {
+          "article": "深沢邦之",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 848.0
+        },
+        {
+          "article": "中山忍",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 849.0
+        },
+        {
+          "article": "お年玉",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 849.0
+        },
+        {
+          "article": "後呂有紗",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 851.0
+        },
+        {
+          "article": "静かなるドン",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 852.0
+        },
+        {
+          "article": "13デイズ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 853.0
+        },
+        {
+          "article": "ミノワマン",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 854.0
+        },
+        {
+          "article": "本渡楓",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 854.0
+        },
+        {
+          "article": "トリック_(テレビドラマ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 856.0
+        },
+        {
+          "article": "Creepy_Nuts",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 857.0
+        },
+        {
+          "article": "古田新太",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 857.0
+        },
+        {
+          "article": "菊地凛子",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 859.0
+        },
+        {
+          "article": "ク・ハラ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 860.0
+        },
+        {
+          "article": "憂国のモリアーティ",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 861.0
+        },
+        {
+          "article": "宇梶剛士",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 861.0
+        },
+        {
+          "article": "清野菜名",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 863.0
+        },
+        {
+          "article": "坂本冬美",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 864.0
+        },
+        {
+          "article": "茅野愛衣",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 864.0
+        },
+        {
+          "article": "ウォーキング・デッド",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 866.0
+        },
+        {
+          "article": "天草四郎",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 867.0
+        },
+        {
+          "article": "天理大学ラグビー部",
+          "project": "ja.wikipedia",
+          "views_ceil": 3000.0,
+          "rank": 868.0
+        },
+        {
+          "article": "クイーン_(バンド)",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 869.0
+        },
+        {
+          "article": "DIR_EN_GREY",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 870.0
+        },
+        {
+          "article": "権太坂",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 871.0
+        },
+        {
+          "article": "TOKIO",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 872.0
+        },
+        {
+          "article": "龍が如く0_誓いの場所",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 873.0
+        },
+        {
+          "article": "おかあさんといっしょ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 873.0
+        },
+        {
+          "article": "池田尊弘",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 875.0
+        },
+        {
+          "article": "ミキ_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 875.0
+        },
+        {
+          "article": "ヒコロヒー",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 877.0
+        },
+        {
+          "article": "豊臣秀吉",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 878.0
+        },
+        {
+          "article": "七福神",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 879.0
+        },
+        {
+          "article": "椿鬼奴",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 880.0
+        },
+        {
+          "article": "関智一",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 881.0
+        },
+        {
+          "article": "チェ・ウシク",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 881.0
+        },
+        {
+          "article": "ウッチャンナンチャン",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 883.0
+        },
+        {
+          "article": "新型コロナウイルス感染症_(2019年)",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 884.0
+        },
+        {
+          "article": "山田哲人",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 885.0
+        },
+        {
+          "article": "ユリ・ゲラー",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 886.0
+        },
+        {
+          "article": "佐藤すみれ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 887.0
+        },
+        {
+          "article": "シン・エヴァンゲリオン劇場版",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 887.0
+        },
+        {
+          "article": "田作",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 889.0
+        },
+        {
+          "article": "長澤まさみ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 890.0
+        },
+        {
+          "article": "河北麻友子",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 890.0
+        },
+        {
+          "article": "第二次世界大戦",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 892.0
+        },
+        {
+          "article": "VS魂",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 893.0
+        },
+        {
+          "article": "コロナ禍",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 894.0
+        },
+        {
+          "article": "DAYS_(漫画)",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 895.0
+        },
+        {
+          "article": "関俊彦",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 896.0
+        },
+        {
+          "article": "オリエンタルラジオ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 897.0
+        },
+        {
+          "article": "宮崎謙介",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 898.0
+        },
+        {
+          "article": "吉木りさ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 899.0
+        },
+        {
+          "article": "ストラディバリウス",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 900.0
+        },
+        {
+          "article": "紗倉まな",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 901.0
+        },
+        {
+          "article": "出雲全日本大学選抜駅伝競走",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 902.0
+        },
+        {
+          "article": "はじめの一歩の登場人物",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 903.0
+        },
+        {
+          "article": "藤原寛",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 904.0
+        },
+        {
+          "article": "松岡茉優",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 905.0
+        },
+        {
+          "article": "呂不韋",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 906.0
+        },
+        {
+          "article": "坂東玉三郎_(5代目)",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 906.0
+        },
+        {
+          "article": "草彅剛",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 908.0
+        },
+        {
+          "article": "RIZIN_FIGHTING_FEDERATION",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 909.0
+        },
+        {
+          "article": "Wikipedia:Hauptseite",
+          "project": "de.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 910.0
+        },
+        {
+          "article": "江口拓也",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 911.0
+        },
+        {
+          "article": "新解釈・三國志",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 912.0
+        },
+        {
+          "article": "渋谷すばる",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 913.0
+        },
+        {
+          "article": "勃起",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 914.0
+        },
+        {
+          "article": "D4DJ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 915.0
+        },
+        {
+          "article": "岩本照",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 916.0
+        },
+        {
+          "article": "とある科学の超電磁砲",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 917.0
+        },
+        {
+          "article": "生徒会役員共",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 918.0
+        },
+        {
+          "article": "オズワルド_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 918.0
+        },
+        {
+          "article": "暗殺教室",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 920.0
+        },
+        {
+          "article": "NEWS_(グループ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 920.0
+        },
+        {
+          "article": "ティファニーで朝食を",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 922.0
+        },
+        {
+          "article": "月亭方正",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 923.0
+        },
+        {
+          "article": "香水_(瑛人の曲)",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 924.0
+        },
+        {
+          "article": "伊達巻",
+          "project": "ja.wikipedia",
+          "views_ceil": 2900.0,
+          "rank": 925.0
+        },
+        {
+          "article": "夏目友人帳",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 926.0
+        },
+        {
+          "article": "レインボー_(お笑いコンビ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 927.0
+        },
+        {
+          "article": "X_JAPAN",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 928.0
+        },
+        {
+          "article": "水川あさみ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 929.0
+        },
+        {
+          "article": "中村勘九郎_(6代目)",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 930.0
+        },
+        {
+          "article": "チャ・ウヌ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 931.0
+        },
+        {
+          "article": "落合博満",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 932.0
+        },
+        {
+          "article": "イチロー",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 933.0
+        },
+        {
+          "article": "古関裕而",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 934.0
+        },
+        {
+          "article": "フェラチオ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 934.0
+        },
+        {
+          "article": "百田夏菜子",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 936.0
+        },
+        {
+          "article": "ねほりんぱほりん",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 936.0
+        },
+        {
+          "article": "賭ケグルイ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 938.0
+        },
+        {
+          "article": "家政夫のナギサさん",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 939.0
+        },
+        {
+          "article": "連続テレビ小説",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 940.0
+        },
+        {
+          "article": "ONE_OK_ROCK",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 941.0
+        },
+        {
+          "article": "西川遥輝",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 942.0
+        },
+        {
+          "article": "山崎育三郎",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 943.0
+        },
+        {
+          "article": "仲里依紗",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 943.0
+        },
+        {
+          "article": "森本慎太郎",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 945.0
+        },
+        {
+          "article": "浪川大輔",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 946.0
+        },
+        {
+          "article": "宮藤官九郎",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 947.0
+        },
+        {
+          "article": "井上嘉浩",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 948.0
+        },
+        {
+          "article": "おちょやん",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 949.0
+        },
+        {
+          "article": "Among_Us",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 950.0
+        },
+        {
+          "article": "北海道日本ハムファイターズ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 951.0
+        },
+        {
+          "article": "君の名は。",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 951.0
+        },
+        {
+          "article": "Template:115歳以上に達した長寿記録",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 953.0
+        },
+        {
+          "article": "渡部篤郎",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 954.0
+        },
+        {
+          "article": "終末のワルキューレ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 954.0
+        },
+        {
+          "article": "専修大学",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 956.0
+        },
+        {
+          "article": "モーニング娘。",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 957.0
+        },
+        {
+          "article": "伊原剛志",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 958.0
+        },
+        {
+          "article": "文豪ストレイドッグス",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 959.0
+        },
+        {
+          "article": "天海祐希",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 960.0
+        },
+        {
+          "article": "藤あや子",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 961.0
+        },
+        {
+          "article": "新海誠",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 962.0
+        },
+        {
+          "article": "ローキック",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 962.0
+        },
+        {
+          "article": "半妖の夜叉姫",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 964.0
+        },
+        {
+          "article": "中川奈美",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 965.0
+        },
+        {
+          "article": "内田伽羅",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 965.0
+        },
+        {
+          "article": "市川実日子",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 967.0
+        },
+        {
+          "article": "ジャニーズJr.",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 968.0
+        },
+        {
+          "article": "与田祐希",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 969.0
+        },
+        {
+          "article": "竹宮惠子",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 970.0
+        },
+        {
+          "article": "ショムニ_(テレビドラマ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 2800.0,
+          "rank": 971.0
+        },
+        {
+          "article": "天理大学",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 972.0
+        },
+        {
+          "article": "SEVENTEEN_(音楽グループ)",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 973.0
+        },
+        {
+          "article": "井上涼",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 974.0
+        },
+        {
+          "article": "水崎綾女",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 975.0
+        },
+        {
+          "article": "横山裕",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 976.0
+        },
+        {
+          "article": "ダイヤモンドは砕けない",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 977.0
+        },
+        {
+          "article": "西野亮廣",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 978.0
+        },
+        {
+          "article": "屠蘇",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 979.0
+        },
+        {
+          "article": "白石麻衣",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 979.0
+        },
+        {
+          "article": "漁港の肉子ちゃん",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 981.0
+        },
+        {
+          "article": "土屋太鳳",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 982.0
+        },
+        {
+          "article": "藤原鎌足",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 983.0
+        },
+        {
+          "article": "反出生主義",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 984.0
+        },
+        {
+          "article": "明治",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 985.0
+        },
+        {
+          "article": "細川ガラシャ",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 986.0
+        },
+        {
+          "article": "Uru",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 987.0
+        },
+        {
+          "article": "村正",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 988.0
+        },
+        {
+          "article": "悠木碧",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 989.0
+        },
+        {
+          "article": "ウエンツ瑛士",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 990.0
+        },
+        {
+          "article": "向井康二",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 991.0
+        },
+        {
+          "article": "小川菜摘",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 992.0
+        },
+        {
+          "article": "キャッチ・ミー・イフ・ユー・キャン",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 993.0
+        },
+        {
+          "article": "アドルフ・ヒトラー",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 994.0
+        },
+        {
+          "article": "長谷川堯",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 995.0
+        },
+        {
+          "article": "第一次世界大戦",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 996.0
+        },
+        {
+          "article": "筒美京平",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 997.0
+        },
+        {
+          "article": "Fate/stay_night",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 998.0
+        },
+        {
+          "article": "内田真礼",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 999.0
+        },
+        {
+          "article": "空気階段",
+          "project": "ja.wikipedia",
+          "views_ceil": 2700.0,
+          "rank": 1000.0
+        }
+      ]
+    }
+  ]
+}
